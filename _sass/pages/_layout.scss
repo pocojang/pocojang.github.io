@@ -21,7 +21,6 @@
   color: $text-color;
   padding: 0 30px;
   .avatar {
-    border-radius: 50%;
     width: 100px;
     height: 100px;
     float: none;
@@ -30,7 +29,6 @@
     display: block;
     color: #F36170;
     font-size: 1.75em;
-    text-transform: lowercase;
   }
   .author_job {
     display: block;
