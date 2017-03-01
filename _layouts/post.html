@@ -11,7 +11,7 @@ layout: default
   {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
   "{{ page.image.feature }}"
   {% else %}
-  "{{ site.url }}/img/{{ page.image.feature }}"
+  "{{ site.url }}/assets/{{ page.image.feature }}"
   {% endif %}
   alt="{{ page.title }} feature image">
 
