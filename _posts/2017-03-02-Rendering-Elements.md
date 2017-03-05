@@ -7,6 +7,8 @@ categories:
 tags:
   - Rendering
 comments: true
+image:
+  feature: view_react.png
 ---
 
 Elements는 React의 가장 작은 빌딩 블록 중 하나이다.
@@ -98,3 +100,8 @@ DOM을 원하는 상태로 만드는 데 필요한 DOM 업데이트만 적용합
 우리의 경험에서 생각해볼때 어떻게 UI를 변경해야할까보다
 
 시간이 지나며 변경하는 방법은 전체 클래스의 버그를 제거합니다.
+
+
+
+####ReactDOM의 이해를 돕는 최고의 동영상
+[https://www.youtube.com/watch?v=BYbgopx44vo](https://www.youtube.com/watch?v=BYbgopx44vo)
