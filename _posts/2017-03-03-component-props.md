@@ -5,7 +5,7 @@ excerpt: Component를 사용하여 UI를 독립적으로 재사용 가능한 조
 categories:
   - react
 tags:
-  - component,props
+  - component
 comments: true
 image:
     feature: https://facebook.github.io/react/img/blog/thinking-in-react-components.png
