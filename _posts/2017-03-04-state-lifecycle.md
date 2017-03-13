@@ -396,9 +396,9 @@ this.setState(function(prevState, props) {
 
 ---
 
-### 데이터 흐름은 아래로
+### 데이터 흐름은 아래
 **부모** `component`나 **자식** `component`는 **특정** `component`가 **`stateful(상태저장)` 또는 `stateless(비상태저장)`인지 알 수 없으며,**  
-`function`로 정의되어있는지 `Class`로 정의되어있는지 조차 주의해서는 안됩니다.
+`function`로 정의되어있는지 `Class`로 정의되어있는지 신경 쓸 필요 없습니다.
   
 이것이 `state`가 종종 `local` 또는 `캡슐화`라고 불리우게 된 이유입니다.  
 자신의 것만 소유하고 설정할 수 있으며 다른 component에는 접근할 수 없습니다.
