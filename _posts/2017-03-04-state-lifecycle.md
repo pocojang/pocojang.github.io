@@ -396,7 +396,7 @@ this.setState(function(prevState, props) {
 
 ---
 
-### 데이터 흐름은 아래
+### 데이터 흐름은 아래로
 **부모** `component`나 **자식** `component`는 **특정** `component`가 **`stateful(상태저장)` 또는 `stateless(비상태저장)`인지 알 수 없으며,**  
 `function`로 정의되어있는지 `Class`로 정의되어있는지 조차 주의해서는 안됩니다.
   
