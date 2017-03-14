@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React / QUICK START / State and Lifecycle
+title: React Docs 번역하기 / QUICK START / State and Lifecycle
 excerpt: Component 내부에서 값을 변경할 수 있는 State와 프로세스의 특정 시간에 코드를 재정의 할 수 있는 Life Cycle에 대하여 알아봅니다.
 
 categories:

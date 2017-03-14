@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React / QUICK START / Rendering Elements
+title: React Docs 번역하기 / QUICK START / Rendering Elements
 excerpt: ReactDOM의 렌더링과 Elements 
 categories:
   - react

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React / QUICK START / Components and Props
+title: React Docs 번역하기 / QUICK START / Components and Props
 excerpt: Component를 사용하여 UI를 독립적으로 재사용 가능한 조각으로 분할하고 Props를 통해 입력 받는 방법을 배운다
 categories:
   - react
