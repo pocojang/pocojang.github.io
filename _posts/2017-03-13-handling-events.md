@@ -53,7 +53,7 @@ function ActionLink() {
   );
 }
 ```
-이 시점에서 `e` 인위적인 이벤트입니다.  
+이 시점에서 `e`는 인위적인 이벤트입니다.  
 React에서는 [W3C 사양](https://www.w3.org/TR/DOM-Level-3-Events/)에 따라서 이렇게 인위적인 이벤트를 정의합니다.
 때문에 크로스-브라우징 호환성에 대해서 걱정할 필요가 없습니다.  
 `SyntheticEvent`에 대해 더 배우고 싶다면 [공식가이드](https://facebook.github.io/react/docs/events.html)를 참조하세요.
@@ -103,7 +103,7 @@ JavaScript에서는 클래스 메서드가 기본으로 바인딩 되지 않습�
 [JavaScript에서 함수가 작동하는 방법](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)의 일부분입니다.  
 일반적으로 `()`없이 메서드를 참조하는 경우 그 후 `onClick={this.handleClick}`와 같은 방법으로 바인딩 해야합니다.
 
-만약 `바인딩`이 번거다면, 두 가지 방향으로 극복할 수 있습니다.  
+만약 `바인딩`이 번거롭다면, 두 가지 방향으로 극복할 수 있습니다.  
 실험적인 [Property initializer syntax](https://babeljs.io/docs/plugins/transform-class-properties/)를 사용한다면, `property initializers`를 사용하여 콜백을 볼바르게 바인딩할 수 있습니다 : 
 ```js
 class LoggingButton extends React.Component {
