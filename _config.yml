@@ -1,0 +1,37 @@
+# Site settings
+title: DevJang development blog
+url: "http://devjang.github.io"
+baseurl: ""
+#timezone: Asia/Seoul
+description: >
+  DevJang development blog
+
+# Your information
+email: devjang2016@gmail.com
+author: DevJang
+avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+profile: Front-end Developer
+#twitter_username: twitter_username
+#github_username: devJang
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
