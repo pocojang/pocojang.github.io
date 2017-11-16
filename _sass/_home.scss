@@ -18,14 +18,19 @@
   padding: 1px 8px;
 
   &:hover, &:focus {
-    color: #fff;
+    color:#000;
   }
 }
 .post-list {
   margin: 0;
-	padding: 20px 40px;
-  list-style: none;
+  padding: 20px 40px;
+  > ul {
+    list-style: none;
+    list-style-type : none
+  }
   > li {
+    list-style:none;
+    list-style-type : none;
     padding-bottom: 30px;
     border-bottom: 1px solid #CCC;
     margin-bottom: 30px;

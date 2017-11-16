@@ -4,7 +4,7 @@ url: "http://devjang.github.io"
 baseurl: ""
 #timezone: Asia/Seoul
 description: >
-  DevJang development blog
+  DevJang Development blog
 
 # Your information
 email: devjang2016@gmail.com
@@ -14,8 +14,6 @@ profile: Front-end Developer
 #twitter_username: twitter_username
 github_username: devJang
 
-# Comment Service (Disqus or 多说)
-# choose one and un-comment the line to active it
 disqus_shortname: devjang
 
 permalink: /archivers/:title
