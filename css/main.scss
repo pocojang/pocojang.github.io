@@ -6,7 +6,7 @@
 
 $base-font-family: "Kakao", sans-serif;
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.9;
 $base-line-height: 1.5;
 
 $code-font-family:   "Fira Code", normal;
@@ -18,8 +18,9 @@ $content-width:    1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$color-link: #2B9664;
-$color-link-hover: #B1E6D0;
+$color-text: rgba(0,0,0,.54);
+$color-link-weak: #80CBC4;
+$color-link-strong: #00BFA5;
 
 $header-bg: #fff;
 $header-bg-hover: #78909C;

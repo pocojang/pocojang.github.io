@@ -49,10 +49,10 @@
   .post-excerpt {
     &, * {
       font-size: $small-font-size;
-      line-height: $small-font-size;
+      line-height: $base-line-height;
       padding-top: 0;
       padding-bottom: 0;
-      color: #333;
+      color: $color-text;
     }
     code, pre, pre * {
       color: #666;
@@ -63,7 +63,7 @@
       background-color: #ccc;
     }
     a {
-      color: $color-link-hover;
+      color: $color-link-weak;
       text-decoration: none;
     }
     img {

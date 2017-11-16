@@ -25,17 +25,25 @@
   .post-content {
     color: #333;
 
+    a {
+      color: $color-link-weak !important;
+    }
+
+    a:hover {
+      color: $color-link-weak !important;
+    }
+
     h1,h2,h3,h4,h5,h6 {
         color: #000;
     }
 
     h1, h2 {
       margin-bottom: 10px;
-        margin-top: 30px;
+      margin-top: 30px;
     }
 
     h1, h2, h3 {
-        border-bottom: 1px solid #CCC;
+      border-bottom: 1px solid #CCC;
     }
 
     pre {

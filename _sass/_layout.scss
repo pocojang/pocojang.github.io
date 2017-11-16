@@ -25,10 +25,10 @@
 
 	.site-title {
 		float: left;
-		color: #333;
+		color: #80CBC4;
 		text-decoration: none;
-		font-size: $base-font-size;
-		font-weight: bold;
+		font-size: $base-font-size + 4;
+		font-weight: 500;
 		line-height: $base-font-size * 3;
 	}
 	.site-nav {
@@ -145,7 +145,7 @@
 	.contact {
 		margin-top: 10px;
 		a {
-			background: #e6e6e6;
+			background: $color-link-weak;
 			color: #fff;
 			padding: 5px 8px;
 			text-decoration: none;
@@ -156,7 +156,7 @@
 			&:hover {
         text-decoration: none;
 				transition: background 0.3s ease;
-				background: #a1a1a1;
+				background: $color-link-weak;
 			}
 		}
 	}
