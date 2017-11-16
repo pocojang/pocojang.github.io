@@ -1,7 +1,4 @@
 <div class="col-box col-box-author">
-  <img class="avatar" src="{{ site.avatar }}" alt="{{ site.author }}">
-  <div class="col-box-title name">{{ site.author }}</div>
-  <p>{{ site.profile }}</p>
   <p class="contact">
     {% if site.github_username %}
     <a href="https://github.com/{{ site.github_username }}">GitHub</a>
@@ -12,6 +9,7 @@
     {% if site.email %}
     <a href="mailto:{{ site.email }}">Email</a>
     {% endif %}
+    <a href="https://devjang.com">Web</a>
   </p>
 </div>
 

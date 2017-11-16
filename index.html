@@ -12,7 +12,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        
+
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
 
         <div class="post-excerpt">
@@ -24,7 +24,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  
+
   <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -32,7 +32,7 @@ layout: default
   {% else %}
     <span class="previous">PREV</span>
   {% endif %}
-  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number ">{{ paginator.page }} / {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">NEXT</a>
   {% else %}
