@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DevJang's blog
+title: Stupid Developer
 subtitle:
 description: Begginer Front-end Developer Blog
 author: DevJang
@@ -76,9 +76,16 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-
-
 deploy:
   type: git
   repo: https://github.com/devJang/devjang.github.com.git
   branch: master
+
+sitemap:
+  path: sitemap.xml
+
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+  hub:

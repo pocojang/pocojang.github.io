@@ -22,13 +22,12 @@ customize:
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: libs/favicon.ico
+    favicon: libs/favicon.png
     social_links:
         github: http://github.com/devjang
-        twitter: /
-        facebook: /
-        dribbble: /
-        rss: /
+        linkedin: https://www.linkedin.com/in/hyeon-seok-jang-52b969130
+        envelope: mailto:devjang2016@gmail.com
+        rss: /feed.xml
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets

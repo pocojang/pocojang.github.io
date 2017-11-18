@@ -1,5 +1,6 @@
 .article
     margin: block-margin 0
+    font-size: 15px
 
 .article-inner
     overflow: hidden
@@ -68,9 +69,11 @@
         line-height: line-height-title
         margin: line-height-title 0
     a
-        color: color-link
+        color: color-link-weak
+        font-weight: bold
         text-decoration: none
         &:hover
+            color: color-link
             text-decoration: underline
     ul, ol, dl
         margin-top: line-height
