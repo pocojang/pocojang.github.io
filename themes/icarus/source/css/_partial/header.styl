@@ -2,6 +2,7 @@
     @extend $block
     background: white
     position: relative
+    font-size: 16px
     a, a:visited
         white-space: nowrap
         transition: 0.2s ease
@@ -31,10 +32,10 @@ $header-block-right
             margin-right: 5px
             display: inline-block
         .site-title
-            font-size: 16px
+            font-size: 19px
             display: inline-block
             vertical-align: top
-            font-weight: 600
+            font-weight: bold
 
 #header-title
     text-align: center
@@ -167,7 +168,8 @@ $nav-link
     line-height: line-height
     outline: none !important
     background: none !important
-    font: font-size font-sans
+    font-size: font-size
+    font-family: font-sans
     border: 1px solid color-border !important
     &:focus
         border-color: color-link !important
