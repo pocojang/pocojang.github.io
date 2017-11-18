@@ -12,12 +12,6 @@
     max-width: 300px
     line-height: 1.5em
 
-.profile-block
-    padding: 15px 20px
-    border-bottom: 1px solid color-border
-    &:last-child
-        border-bottom: none
-
 #profile
     column(profile-column)
     display: none
@@ -75,44 +69,6 @@
                     text-transform: uppercase
                 &:first-child
                     border-right: 1px solid color-border
-        .social-links
-            & > table
-                width: 100%
-                td
-                    text-align: center
-                    font-size: font-size + 10px
-                    a
-                        position: relative
-                        transition: 0.2s ease
-                        color: color-default + #333
-                        &:hover
-                            color: color-default
-                        &.tooltip:hover
-                            &:after
-                                right: -50%
-                                top: -41px
-                                color: white
-                                background: #333
-                                font-size: 14px
-                                content: attr(title)
-                                display: block
-                                padding: 5px 15px
-                                position: absolute
-                                white-space: nowrap
-                                border-radius: 2px
-                                text-transform: uppercase
-                                box-shadow: 0 0 2px rgba(0, 0, 0, 0.2)
-                                z-index: 1
-                            &:before
-                                top: -12px
-                                right: 8px
-                                border: solid
-                                border-color: #333 transparent
-                                border-width: 5px 5px 0 5px
-                                content: ""
-                                display: block
-                                position: absolute
-                                z-index: 2
     &.card
         top: 50px
         right: 20px

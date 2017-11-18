@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: DevJang's blog
 subtitle:
-description:
-author: John Doe
-language:
-timezone:
+description: Begginer Front-end Developer Blog
+author: DevJang
+language: en
+timezone:	Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://devjang.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -53,7 +53,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: default
 category_map:
 tag_map:
 
@@ -76,5 +76,9 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+
+
 deploy:
-  type:
+  type: git
+  repo: https://github.com/devJang/devjang.github.com.git
+  branch: master

@@ -1,32 +1,30 @@
 # Menus
 menu:
-  Home: .
   Archives: archives
   Categories: categories
   Tags: tags
-  About: about
 
 # Customize
 customize:
     logo:
-        enabled: true
+        enabled: false
         width: 40
         height: 40
-        url: images/logo.png
+        url:
     profile:
-        enabled: true # Whether to show profile bar
+        enabled: false # Whether to show profile bar
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: PPOffice
-        author_title: Web Developer & Designer
-        location: Harbin, China
-        follow: https://github.com/ppoffice/
+        author: DevJang
+        author_title: Front-end Developer
+        location: Korea, Suwon
+        follow: https://github.com/devjang
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: libs/favicon.ico
     social_links:
-        github: http://github.com/ppoffice/hexo-theme-icarus
+        github: http://github.com/devjang
         twitter: /
         facebook: /
         dribbble: /
@@ -40,7 +38,6 @@ widgets:
     - archive
     - tag
     - tagcloud
-    - links
 
 # Search
 search:
@@ -50,7 +47,7 @@ search:
 
 # Comment
 comment:
-    disqus:  # enter disqus shortname here
+    disqus:  devjang
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
@@ -59,7 +56,7 @@ comment:
         appid:
         conf:
     gitment:
-        owner: #your github ID
+        owner: devjang
         repo: #the repo to store comments
         #Register an OAuth application, and you will get a client ID and a client secret.
         client_id: #your client ID
@@ -72,7 +69,7 @@ comment:
         notify: # enter true to enable <Mail notifier> https://github.com/xCss/Valine/wiki/Valine-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE
         verify: # enter true to enable <Validation code>
         placeholder: Just Do It # enter the comment box placeholder
-    
+
 
 # Share
 share: default # options: jiathis, bdshare, addtoany, default
@@ -93,5 +90,3 @@ miscellaneous:
         fb_admins:
         twitter_id:
         google_plus:
-    links:
-        Hexo: http://hexo.io
