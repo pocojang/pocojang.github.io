@@ -6,10 +6,10 @@
   font-style: normal;
   font-weight: 400;
   src: local('Kakao Regular'), local('KakaoOTF Regular'),
-  url(KakaoOTF-bRg.eot) format('eot'),
-  url(KakaoOTF-bRg.woff2) format('woff2'),
-  url(KakaoOTF-bRg.woff) format('woff'),
-  url(KakaoOTF-bRg.otf) format('opentype');
+  url(fonts/KakaoOTF-bRg.eot) format('eot'),
+  url(fonts/KakaoOTF-bRg.woff2) format('woff2'),
+  url(fonts/KakaoOTF-bRg.woff) format('woff'),
+  url(fonts/KakaoOTF-bRg.otf) format('opentype');
 }
 
 @font-face {
@@ -17,10 +17,10 @@
   font-style: normal;
   font-weight: 200;
   src: local('Kakao Light'), local('KakaoOTF Light'),
-  url(KakaoOTF-aLt.eot) format('eot'),
-  url(KakaoOTF-aLt.woff2) format('woff2'),
-  url(KakaoOTF-aLt.woff) format('woff'),
-  url(KakaoOTF-aLt.otf) format('opentype');
+  url(fonts/KakaoOTF-aLt.eot) format('eot'),
+  url(fonts/KakaoOTF-aLt.woff2) format('woff2'),
+  url(fonts/KakaoOTF-aLt.woff) format('woff'),
+  url(fonts/KakaoOTF-aLt.otf) format('opentype');
 }
 
 @font-face {
@@ -28,8 +28,8 @@
   font-style: normal;
   font-weight: 700;
   src: local('Kakao Bold'), local('KakaoOTF Bold'),
-  url(KakaoOTF-cBd.eot) format('eot'),
-  url(KakaoOTF-cBd.woff2) format('woff2'),
-  url(KakaoOTF-cBd.woff) format('woff'),
-  url(KakaoOTF-cBd.otf) format('opentype');
+  url(fonts/KakaoOTF-cBd.eot) format('eot'),
+  url(fonts/KakaoOTF-cBd.woff2) format('woff2'),
+  url(fonts/KakaoOTF-cBd.woff) format('woff'),
+  url(fonts/KakaoOTF-cBd.otf) format('opentype');
 }
