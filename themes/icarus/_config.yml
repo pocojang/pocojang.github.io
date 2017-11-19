@@ -31,10 +31,10 @@ customize:
 
 # Widgets
 widgets:
-    - recent_posts
     - category
-    - archive
-    - tag
+    - recent_posts
+    # - archive
+    # - tag
     - tagcloud
 
 # Search
