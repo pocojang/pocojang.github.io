@@ -163,6 +163,7 @@ NodeJS에서 Service Worker 오프라인 지원
 >1. Angular나 React와는 다르게 Web Component가 하나 더 있다.
 >2. Grid가 강력하다 (다양한 적용 가능)
 >3. 유행이 지난 기술은 분명하다! 하지만 유용한 부분이 아직 존재한다.
+
 ![](https://3.bp.blogspot.com/-BVA-Y4XHxbM/WM1G77IQrkI/AAAAAAAABfg/aNAiCZteNk4Y59QBl4oU0aDmzJWoFU0wACK4B/s640/IMG_20170315_204147.jpg)
 
 ---
