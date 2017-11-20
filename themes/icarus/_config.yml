@@ -27,7 +27,7 @@ customize:
         linkedin: https://www.linkedin.com/in/hyeon-seok-jang-52b969130
         envelope: mailto:devjang2016@gmail.com
         rss: /feed.xml
-    social_link_tooltip: true # enable the social link tooltip, options: true, false
+    social_link_tooltip: false # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
