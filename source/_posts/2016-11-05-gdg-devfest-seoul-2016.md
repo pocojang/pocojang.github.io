@@ -2,7 +2,7 @@ title: GDG DEVFEST 2016 @Seoul Univ GCP
 date: 2016-11-05
 tags: [김정윤, 도창욱, 조은, 초보개발자들을 위한 웹 프론트엔드 개발 101, devfest2016, gdg, GDG DevFest Seoul 2016, gdgkr]
 categories:
-- conference
+- Conference
 banner:
   https://3.bp.blogspot.com/-HIMq0MAew0c/WCRdy9gaDtI/AAAAAAAAAyk/fJ_3J-ucRVw869NjRA4Ly4wwx5WtG1smgCLcB/s1600/gdgkorea-logo.png
 ---
