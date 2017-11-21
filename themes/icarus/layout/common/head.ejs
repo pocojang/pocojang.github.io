@@ -2,6 +2,7 @@
 <html<%= config.language ? " lang=" + config.language.substring(0, 2) : ""%>>
 <head>
     <meta charset="utf-8">
+    <meta name="google-site-verification" content="S1CPebB-_3fi1-9r0_WWgx_cRQh187CxWzYm5xIxKzs" />
     <%
         function capitalize (str) { return str.charAt(0).toUpperCase() + str.substring(1).toLowerCase() }
         var title = page.title;
@@ -27,6 +28,8 @@
         twitter_id:     theme.miscellaneous.open_graph.twitter_id,
         google_plus:    theme.miscellaneous.open_graph.google_plus,
     }) %>
+    <meta property="og:image:width" content="420" />
+    <meta property="og:image:height" content="420" />
     <%- meta(page) %>
     <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
 

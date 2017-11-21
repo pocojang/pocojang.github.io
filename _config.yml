@@ -99,3 +99,10 @@ feed:
   path: feed.xml
   limit: 20
   hub:
+
+robotstxt:
+  useragent: "*"
+  disallow:
+  allow:
+    - /
+  sitemap: https://devjang.github.io/robots.txt
