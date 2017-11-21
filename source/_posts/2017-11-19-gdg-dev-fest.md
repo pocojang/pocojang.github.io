@@ -62,6 +62,9 @@ GDG DEVFEST 2017 관람 후기 (수정 예정)
 ---
 #### 프론트엔드 모던 프레임워크 낱낱히 파헤치기 by 한성민
 ![](http://3.bp.blogspot.com/-Uzrvl78FYtA/WhGJySwywGI/AAAAAAAABr8/5mEOCi3Ecc8RP95cvQL8IJ4XZtVJz8fWQCK4BGAYYCw/s1600/gdg-2017-3.png)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/I7YZzlm4zzGawf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288" title=" GDG DevFest 2017 Seoul 프론트엔드 모던 프레임워크 낱낱히 파헤치기" target="_blank"> GDG DevFest 2017 Seoul 프론트엔드 모던 프레임워크 낱낱히 파헤치기</a> </strong> from <strong><a href="https://www.slideshare.net/KennethCeyer" target="_blank">Kenneth Ceyer</a></strong> </div>
+
 - **JavaScript 라이브러리의 역사**
 
 과거에는 객체 사용이 힘들었지만 commonJS 등장 이후에 모듈 개념이 등장하기 시작  
@@ -146,9 +149,6 @@ Vue
 >발표자분께서는 정말 꼼꼼하게 분석해서 좋은 강연을 해주었지만 Vue에 대해서는 약간 부족한 정보가 보였고  
 >너무 Vue만 찬밥아니냐는 참가자도 있었던 좋지만 아쉬운 발표였다
 
-
-- 발표자료
-: <https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288>
 ---
 
 #### 해외 취업이야기 by 정승욱

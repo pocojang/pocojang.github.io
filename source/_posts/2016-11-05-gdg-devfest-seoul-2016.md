@@ -9,7 +9,15 @@ banner:
 GDG DEVFEST 2016 관람 후기!!
 <!-- more -->
 
+<!-- TOC -->
 
+- [행사정보](#행사정보)
+- [행사장 방문](#행사장-방문)
+- [Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #0](#boot-camp--초보개발자들을-위한-웹-프론트엔드-개발-101-0)
+- [Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #1](#boot-camp--초보개발자들을-위한-웹-프론트엔드-개발-101-1)
+- [Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #2](#boot-camp--초보개발자들을-위한-웹-프론트엔드-개발-101-2)
+
+<!-- /TOC -->
 
 ---
 #### 행사정보
@@ -33,7 +41,7 @@ Firebase
 
 ---
 
-#### Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101
+#### Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #0
 사실 이전에 진행이 된 ServiceWorker도 보긴 했지만  
 뒤늦게 참석하게 하는 바람에 후기를 쓸 정도의 참가를 못해서 쓸 수가 없게 되었다.
 
@@ -86,6 +94,8 @@ W3Fools라는 안티 사이트가 있을 정도이다.
 
 ---
 
+#### Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #1
+
 ![](https://1.bp.blogspot.com/-WhfoYnwD_DI/WCXmfEj0F2I/AAAAAAAAA0M/NivG99Rh3Ugs96zRz04h6FmQn2s6egSCwCEw/s1600/Cap%2B2016-11-12%2B00-40-01-153.jpg)
 - 프로필  
 https://festi.kr/festi/speaker/choeun
@@ -108,12 +118,14 @@ https://festi.kr/festi/speaker/choeun
 
 - **학습추천**
 1. css-tricks.com  
-css가이드 및 예제
+CSS 가이드 및 예제
 2. Alistapart  
-css 개발 패러다임
+CSS 개발 패러다임
 3. MDN
 
 ---
+
+#### Boot Camp : 초보개발자들을 위한 웹 프론트엔드 개발 101 #2
 
 ![](https://3.bp.blogspot.com/-25F9OinV0aQ/WCXr7OLqCkI/AAAAAAAAA0k/w7PqgczZeRs45z5GdYA44NZgQ1nLLN1SgCLcB/s640/Cap%2B2016-11-12%2B01-01-40-773.jpg)
 - 프로필  
