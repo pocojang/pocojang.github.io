@@ -2,7 +2,7 @@ title: 나는 자바스크립트 개발자다 by JSDev.KR & React Korea The 1st 
 date: 2017-03-15
 tags: [김동우, 김종광, 나는 자바스크립트 개발자다, 신정규, 이종은, 자바스크립트 개발자 포럼, angular, JSDev.KR, react, React Korea]
 categories:
-- Conference
+- conference
 banner: https://4.bp.blogspot.com/-KvD22CKm8Lg/WM09YyDdc9I/AAAAAAAABc4/JpyUv3_8VLU4vSa-4jUUeIq04Iog-IqVwCLcB/s1600/title2_sq.png
 ---
 JSDev.KR & React Korea The 1st Meet up 관람기!

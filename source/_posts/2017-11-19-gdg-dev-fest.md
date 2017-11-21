@@ -2,7 +2,7 @@ title: GDG DEVFEST 2017 @Seoul Univ GCP
 date: 2017-11-19
 tags: [gdg, gdg 2017]
 categories:
-- Conference
+- conference
 banner:
   https://devfest17-seoul.firebaseapp.com/images/logos/devfest-weblogo4@4x.png
 ---
