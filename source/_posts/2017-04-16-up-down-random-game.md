@@ -5,9 +5,13 @@ categories:
 - [study, code game]
 ---
 
-숫자를 찾는 Up & Down 랜덤게임 만들기
+Up & Down 랜덤게임을 만들기!
 
 <!-- more -->
+
+---
+
+>>>>>>> 401dfef70ccfd66d1792ac0647e20fe089bb3ddf
 > 숫자를 찾는 up & down 랜덤게임을 만들어라  
 
 조건 1. 랜덤 숫자의 범위는 1~100 이다 Math.floor(Math.random() * 100 + 1)  
