@@ -11,8 +11,6 @@
         <button type="submit" class="search-form-submit"></button>
     </form>
     <%- partial('search/swiftype') %>
-<% } else if (theme.search.baidu) { %>
-    <%- partial('search/baidu') %>
 <% } else { %>
     <%- search_form({ button: ' ', text: __('index.search') }) %>
 <% } %>
