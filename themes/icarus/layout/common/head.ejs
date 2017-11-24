@@ -31,7 +31,7 @@
     <meta property="og:image:width" content="420" />
     <meta property="og:image:height" content="420" />
     <%- meta(page) %>
-    <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
+    <%- css('libs/noto-sans-kr/styles') %>
 
     <% if (theme.customize && theme.customize.social_links && theme.customize.social_links.rss) { %>
         <link rel="alternate" href="<%- theme.customize.social_links.rss %>" title="<%= config.title %>" type="application/atom+xml" />

@@ -11,9 +11,6 @@
     <% if (theme.plugins.google_site_verification) { %>
         <meta name="google-site-verification" content="<%= theme.plugins.google_site_verification %>" />
     <% } %>
-    <% if (theme.plugins.baidu_analytics) { %>
-        <%- partial('plugin/baidu-analytics') %>
-    <% } %>
 <% } else { %>
     <% if (theme.plugins.lightgallery) { %>
         <%- js('libs/lightgallery/js/lightgallery.min') %>
