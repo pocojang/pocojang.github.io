@@ -3,11 +3,5 @@
         <section id="comments"><%- partial('comment/disqus') %></section>
     <% } else if (theme.comment.facebook) { %>
         <section id="comments"><%- partial('comment/facebook') %></section>
-    <% } else if (theme.comment.gitment &&
-        theme.comment.gitment.owner &&
-        theme.comment.gitment.repo &&
-        theme.comment.gitment.client_id &&
-        theme.comment.gitment.client_secret) { %>
-        <section id="comments"><%- partial('comment/gitment') %></section>
     <% } %>
 <% } %>
