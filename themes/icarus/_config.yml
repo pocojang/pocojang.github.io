@@ -18,7 +18,7 @@ customize:
         author_title: Front-end Developer
         location: Korea, Suwon
         follow: https://github.com/devjang
-    highlight: vs-dark
+    highlight: vs-code-dark
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: libs/favicon.png
