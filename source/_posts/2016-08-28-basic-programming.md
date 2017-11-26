@@ -18,7 +18,7 @@ banner: https://2.bp.blogspot.com/-9X-OMYTcfoY/V_D7IZa7VpI/AAAAAAAAAEE/lLTS5Q-I5
 >역자 : 정인식
 >출간 : 2016-05-12  
 >페이지 : 296 쪽  
->ISBN :  9791185890494|  
+>ISBN :  9791185890494  
 >가격 : 22,000원
 
 - 자세한 정보  
