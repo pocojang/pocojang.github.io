@@ -24,7 +24,7 @@ customize:
     favicon: libs/favicon.png
     social_links:
         github: http://github.com/devjang
-        linkedin: www.linkedin.com/in/devjang
+        linkedin: https://www.linkedin.com/in/devjang
         envelope: mailto:devjang2016@gmail.com
         rss: /feed.xml
     social_link_tooltip: false # enable the social link tooltip, options: true, false
