@@ -24,7 +24,7 @@ customize:
     favicon: libs/favicon.png
     social_links:
         github: http://github.com/devjang
-        linkedin: https://www.linkedin.com/in/hyeon-seok-jang-52b969130
+        linkedin: www.linkedin.com/in/devjang
         envelope: mailto:devjang2016@gmail.com
         rss: /feed.xml
     social_link_tooltip: false # enable the social link tooltip, options: true, false
