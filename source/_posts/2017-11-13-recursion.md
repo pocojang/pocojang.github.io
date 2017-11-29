@@ -1,19 +1,18 @@
 title: 홀수 or 짝수 재귀함수
 date: 2017-11-13
-tags: [algorithm, 재귀함수, recursion]
+tags: [재귀함수, recursion]
 categories:
-- [study, algorithm]
+- [study, daily algorithm]
 ---
 
 홀수 또는 짝수로 재귀함수 출력하기
 
 <!-- more -->
 
----
-
 >자연수 N을 입력받아 N이 홀수인 경우에는 N부터 1까지의 홀수를  
 >짝수인 경우는 N부터 2까지의 짝수를 모두 출력하는 프로그램을 재귀함수로 작성하세요.
 
+---
 
 #### Expect
 ```js
@@ -23,7 +22,9 @@ getOddEvenDesc(7);
 7  6  5  4  3  1
 ```
 
-#### Solution
+---
+
+#### My Solution
 ```js
 
 function getOddEvenDesc(num) {
