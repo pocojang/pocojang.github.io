@@ -2,7 +2,7 @@ title: 앵귤러 첫걸음
 date: 2017-07-14
 tags: [앵귤러 책 추천, 앵귤러 예제책, 앵귤러 첫걸음]
 categories:
-- book
+- [book, programming, framework]
 banner: https://4.bp.blogspot.com/-DHworeIDr4k/WXSaaPQKKgI/AAAAAAAABkQ/vNJVo1sF4w89v-IAifwSlbHHLpJWzZ6NgCLcBGAs/s1600/20170723_213004.jpg
 
 ---

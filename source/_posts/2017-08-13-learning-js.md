@@ -1,8 +1,8 @@
 title: 러닝 자바스크립트
 date: 2017-08-13
-tags: [러닝 자바스크립트, devbook, javascript es6, es6 코뿔소]
+tags: [러닝 자바스크립트, javascript es6, es6 코뿔소]
 categories:
-- book
+- [book, programming, javascript]
 banner: https://4.bp.blogspot.com/-1Sa0ShnTXdc/WZV0iEImpVI/AAAAAAAABlw/MtxbwFu_t8Mwo60-3AlYelURqUdlF3-0QCLcBGAs/s640/20170817_001015.jpg
 
 ---
