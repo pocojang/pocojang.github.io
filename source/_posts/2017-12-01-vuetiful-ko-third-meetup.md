@@ -67,7 +67,7 @@ patch(oldVnode, newVnode);
 `마지막 한마디 => Vue is JavaScript`
 
 우경화님의 예제 : <https://kellywoo.github.io/vnode>    
-SnabbDom : <https://kellywoo.github.io/vnode/vnode>
+SnabbDom : <https://github.com/snabbdom/snabbdom>
 
 ---
 
