@@ -21,27 +21,25 @@ Vuetiful Korea 세 번째 밋업 참가 후기!
 
 ### Virtual dom to render (우경화 @뉴링크)
 ![](http://1.bp.blogspot.com/-0gvMmsUKVe4/WiGH-j3_nLI/AAAAAAAABv0/cCFCjYx3clAIgsfgzUJbaTQQSdlxxwy0gCK4BGAYYCw/s1600/20171202_013857.jpg)
+
+- **DOM and Virtual DOM**  
+Document 내부의 태그에 대한 정의와 api를 규격화 한 모델.  
+and  
+DOM을 본따 만든 JavaScript Object.
+
+- **Virtual Dom prevents bad performance**
+Virtual DOM도 결국 DOM에 patch가 되어야 하니 DOM을 직접 제어하는 코드보다 빠를 수 없다.
+
 - **SnabbDom**  
 가장 신기했던 부분이었다.  
 기존에 React & Vue에서 제공하는 VirtualDOM을 더 강력하게 만든다.  
 코드는 그렇게 어려워 보이지 않았으며 Hook과 patch function을 활용한 방법이 재미있었다.
 
 ```js
-var snabbdom = require('snabbdom');
-
-var patch = snabbdom.init([
-  require('snabbdom/modules/class').default,
-  require('snabbdom/modules/style').default,
-]);
-```
-- **patch function**  
-  VNode의 변화만 보기 때문에 요소에는 관심이 없다.  
-  OLD VNode & NEW VNode로 나뉘게 된다.
-
-  
-```js
 // 선택된 모듈과 함께 patch function 초기화
-var patch = snabbdom.init([
+const snabbdom = require('snabbdom/snabbdom.js');
+
+const patch = snabbdom.init([
   // 토글 class
   require('snabbdom/modules/class').default,
   // DOM 요소 프로퍼티 설정
@@ -49,9 +47,65 @@ var patch = snabbdom.init([
   // 애니메이션을 지원하는 요소 스타일 핸들링
   require('snabbdom/modules/style').default,
   // 이벤트 리스너 연결
-  require('snabbdom/modules/eventlisteners').default,
+  require('snabbdom/modules/eventlisteners').default
 ]);
 
+
+let oldv = document.getElementById('static_dom');
+let vnode = h('div#static_dom', {
+    class: [ 'classed'],
+    style: { color: '#f00', textDecoration: ‘underline’ },
+    on: { click: changeToButton }
+  }, 'but changed by virtual dom');
+
+
+setTimeout(function () { oldv = patch(oldv, vnode); }, 3000)
+
+var obj = {
+      tag: 'button',
+      data: {
+        type: 'button',
+        class: { 'btn': true, 'btn-green': true },
+        on: {
+          click: function () {
+window.open('https://kr.vuejs.org/v2/guide/render-function.html','_blank');}
+        }},
+      children: 'To Vue Blog'
+    }
+
+let oldv = document.getElementById(‘dom’)
+
+function createVNode () {
+    return h(this.tag, this.data, this.children)
+}
+function updateObj (oldv, data) {
+    return patch(oldv, createVNode.call(data)
+}
+oldv = updateObj(obj)
+
+// obj 내부의 데이터에 setter로 updateObj를 호출 data에 따라 값이 바뀌는 원시 Vue 완성 
+// Static DOM => BUT! changed by Virtual DOM
+```
+
+- **Vue render function**  
+vnode는 유일무이해야함
+```js
+render: function (h) {
+ var vm = this // this는 현재의 component를 가리킴
+ var myHi = h('p', 'hi')
+
+ return h( 'div' ,  … //tag
+{ … //data object class, staticClass, style, }⁰,
+[myHi, Object.assign({}, myHi)¹]) //children
+}
+```
+
+- **patch function**  
+  VNode의 변화만 보기 때문에 요소에는 관심이 없다.  
+  OLD VNode & NEW VNode로 나뉘게 된다.
+  리렌더링 => 라이브러리에서 적용한 상태값들이 사라질 수 있음 
+
+```js
 // vnode 생성 핼퍼 함수
 var h = require('snabbdom/h').default;
 
@@ -60,14 +114,21 @@ var container = document.getElementById('container');
 // patch function 사용
 patch(oldVnode, newVnode);
 ```
-- **process**  
-  [keep alive](https://kr.vuejs.org/v2/api/#keep-alive)를 주로 활용하였다는 데 [Life Cycle](https://kr.vuejs.org/v2/api/#옵션-라이프사이클-훅)과 관련이 있는 걸로 보인다.
+  리렌더링이 => 라이브러리에서 적용한 상태값들이 사라질 수 있음 
+
+- **Vue process**  
+실데이이터는 get, set으로 쓰임  
+watch에 설정된 경우에만 컴포넌트의 렌더링 관여하는 Watcher 객체 생성
+
+[keep alive](https://kr.vuejs.org/v2/api/#keep-alive)를 주로 활용하였다는 데 [Life Cycle](https://kr.vuejs.org/v2/api/#옵션-라이프사이클-훅)과 관련이 있는 걸로 보인다.
 
 
-`마지막 한마디 => Vue is JavaScript`
+>`마지막 한마디 => Vue is JavaScript`  
+>결과를 아는 것 < 왜 그렇게 되는 것인지 이해 === Vue를 더 잘 쓸 수 있는 방법
 
 우경화님의 예제 : <https://kellywoo.github.io/vnode>    
 SnabbDom : <https://github.com/snabbdom/snabbdom>
+발표자료 : <https://docs.google.com/presentation/d/1CicMIDXECBg_5Y7TnAf-iF4uXW7PrDoUfAM6hpBCulI/edit?usp=sharing>
 
 ---
 
@@ -87,6 +148,9 @@ TDD라고 다 같은 테스트가 아니다.
 - **컴포넌트 테스트**  
 VueCLI의 초기화면 테스트를 예를 들어 보여준 후 간단한 Todo 앱의 컴포넌트 테스트를 보여주었다
 [Vue.nextTick](https://kr.vuejs.org/v2/api/index.html#Vue-nextTick)을 활용할 것을 추천했다.
+
+
+발표자료 : <https://docs.google.com/presentation/d/1nOcis4xOElGXpuOTq2mSHQVxIWXzgkaIXKppXpbT5w0/edit?usp=sharing>
 
 ---
 
