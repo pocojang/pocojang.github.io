@@ -6,7 +6,7 @@ categories:
 banner:
   https://devfest17-seoul.firebaseapp.com/images/logos/devfest-weblogo4@4x.png
 ---
-GDG DEVFEST 2017 관람 후기 (수정 예정)
+GDG DEVFEST 2017 관람 후기
 <!-- more -->
 ![](http://1.bp.blogspot.com/-ZzaY1ONZaJI/WhFpfUqsbsI/AAAAAAAABrE/6HOIqS-fjnML7b5PIAW8mQ3XkXAEuhU5gCK4BGAYYCw/s1600/gdg-2017-schedule.png)
 ---
@@ -30,6 +30,9 @@ GDG DEVFEST 2017 관람 후기 (수정 예정)
 #### Why TypeScript with Clean Architecture by 정유진
 ![](http://1.bp.blogspot.com/-pxpZVZcR_rk/WhGI73M24yI/AAAAAAAABrw/la4cF4w96Lo6G3wfrwnUb74isD7fzUQoACK4BGAYYCw/s1600/gdg-2017-2.png)
 >점점 커지는 프로젝트에 관리의 어려움을 느끼기 시작함
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7swsgJV2kZCNow" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser44df45/why-typescript-with-clean-architecture-82371194" title="Why Typescript with Clean Architecture" target="_blank">Why Typescript with Clean Architecture</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser44df45" target="_blank">유진 정</a></strong> </div>
+
 
 - **문제의식**
 1. 다양한 지식을 통제
@@ -222,6 +225,9 @@ IDE의 지원도 없기 때문에 오히려 한국에서의 테스트보다 더�
 
 #### 리액트와 장고로 만드는 Progressive Web App: 빠르고 단단한 웹사이트 제작하기 by 진유림
 ![](http://4.bp.blogspot.com/-kysSQDPL5mM/WhGI70AxsuI/AAAAAAAABrs/ZsqSMaKI--8ItnM4IqOfsHpf3kocX_qqACK4BGAYYCw/s1600/gdg-2017-1.png)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/oTv1Sxf4GeFELz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jayjin0427/progressive-web-app-feat-react-django-82499585" title="Progressive Web App (feat. React, Django)" target="_blank">Progressive Web App (feat. React, Django)</a> </strong> from <strong><a href="https://www.slideshare.net/jayjin0427" target="_blank">Jay Jin</a></strong> </div>
+
 - **PWA 제작 계기**
 1. 기존에 운영하던 재고관리 시스템(Boxture)을 앱으로 보게 해달라는 요청을 받음
 2. 다양한 플랫폼 중 변화에 유동적으로 대처할 수 있는 PWA 고려
