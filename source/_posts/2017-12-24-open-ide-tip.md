@@ -27,10 +27,10 @@ IDE를 즉시 실행할 수가 있습니다!!
 
 ![](http://3.bp.blogspot.com/-j9wvE1DG7mQ/WkY6xb9BJrI/AAAAAAAADD0/SzvrqQgSPKUmns6bLjzFyEBATlF-IUL6ACK4BGAYYCw/s1600/code-2.png)  
 
-1. CMD + SHIFT + P 입력 후 위와 같은 검색을 통해 `셸 명령: PATH에 'code' 명령 설치`를 합니다.
+- CMD + SHIFT + P 입력 후 위와 같은 검색을 통해 `셸 명령: PATH에 'code' 명령 설치`를 합니다.
 
 ![](http://2.bp.blogspot.com/-ZFVH7_wfnX0/WkY6xecUPpI/AAAAAAAADEA/FMfv5yvsru0-RraDIqeCj9uhHF-s45MVwCK4BGAYYCw/s1600/code-3.png)  
-2. 실행을 원하는 경로에서 명령어를 통해 실행합니다
+- 실행을 원하는 경로에서 명령어를 통해 실행합니다
 ```bash
 code .    // 주의: code와 . 사이에 공백이 필요합니다.
 ```
