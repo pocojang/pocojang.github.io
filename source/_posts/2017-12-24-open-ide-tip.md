@@ -15,7 +15,7 @@ banner: http://3.bp.blogspot.com/-0jcOHijYHms/WkY1FitIBkI/AAAAAAAADCo/gUAoMn45E0
 
 저장소를 새로 만든다던지 git clone을 한다던지 현재 터미널에 있으면서  
 `원하는 경로로 에디터를 실행한다는 것이 
-귀찮을 때`가 많습니다. :weary::weary::weary:
+귀찮을 때`가 많습니다.
 
 이런 경우에 정말 너무도 간단하게 명령어 `단 몇 글자`면 해당 경로에서
 IDE를 즉시 실행할 수가 있습니다!!
