@@ -1,10 +1,9 @@
 title: 이것이 자바다
 date: 2018-04-12
-tags: [지바 입문 책, 이것이 자바다, 신용권]
+tags: [자바 입문 책, 이것이 자바다, 신용권]
 categories:
-
-* [book, programming, java]
-  banner: https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG
+- [book, programming, java]
+banner: https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG
 
 ---
 
