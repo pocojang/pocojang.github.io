@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "hexo server -w",
-    "deploy": "hexo generate -d",
+    "deploy": "hexo clean && hexo generate -d",
     "push": "git add . && git commit -m \"update on `date +\"%Y/%m/%d %H:%M:%S\"`\" && git push origin original; exit 0"
   },
   "dependencies": {
