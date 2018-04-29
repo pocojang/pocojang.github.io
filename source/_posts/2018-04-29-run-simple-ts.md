@@ -2,8 +2,8 @@ title: VS 코드 콘솔에서 TypeScript 실행하기
 date: 2018-04-29
 tags: [visual studio code, intellij, CodePen, JS Bin, JSFiddle, CodeSandbox, typescript, run console]
 categories:
-- [programming, tip]
-banner: 
+- [programming, typescript]
+banner: http://4.bp.blogspot.com/-srhPg5R8lUc/WiQZei_f_LI/AAAAAAAAByg/DMyz2jb5rKk_ldhz1MzmQ-gizC-5IvHYwCK4BGAYYCw/s1600/TypeScript.png
 
 ---
 
