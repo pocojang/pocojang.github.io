@@ -1,4 +1,4 @@
-title: [번역] 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다
+title: (번역) 멋진 ES6 - var, let 그리고 const를 깊이 살펴보다
 date: 2018-11-25
 tags: [es6, var, let, const]
 categories:
@@ -309,6 +309,4 @@ _결국 깨끗하고 안전한 코드를 작성하는 것을 좋아하지 않는
 
 ---
 
-이 아티클은 원작자 [MayaShavin](https://twitter.com/MayaShavin)의 동의를 얻어 번역되었습니다.
-
-원본 아티클: <https://medium.com/front-end-hacking/es6-cool-stuffs-var-let-and-const-in-depth-24512e593268>
+이 아티클([ES6 cool stuffs —var, let and const in depth](https://medium.com/front-end-hacking/es6-cool-stuffs-var-let-and-const-in-depth-24512e593268))은 원작자 [MayaShavin](https://twitter.com/MayaShavin)의 동의를 얻어 번역되었습니다.
