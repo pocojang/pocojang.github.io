@@ -3,7 +3,7 @@ date: 2019-02-15
 tags: [자바스크립트를 깨우치다]
 categories:
 - [book, programming, javascript]
-banner: https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG
+banner: http://www.bjpublic.co.kr/data/goodsImages/GOODS3_1373003475
 
 ---
 
