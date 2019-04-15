@@ -25,7 +25,7 @@ banner: http://1.bp.blogspot.com/-VrKpGTRIm4c/XLNOzehKQ-I/AAAAAAAAHh0/RpsIz-K9x3
 
 * 자세한 정보  
   : <https://book.naver.com/bookdb/book_detail.nhn?bid=14524977>  
-  : <http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937>
+  : <http://www.hanbit.co.kr/store/books/look.php?p_code=B2453522793>
 
 ## 소개
 
