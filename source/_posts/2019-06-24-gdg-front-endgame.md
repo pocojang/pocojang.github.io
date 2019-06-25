@@ -1,4 +1,4 @@
-title: GDG FRONT-ENDGAME
+title: GDG FRONT-ENDGAME 참관 후기
 date: 2019-06-24
 tags: [gdg, front-endgame, 천민호, 진겸, 한재엽, 서재원, 나석주, 한근택, velopert, 벨로퍼트, 김민준]
 categories:
