@@ -742,3 +742,8 @@ Best Practice를 찾는 데에만 며칠이 걸릴때도 있다.
 ## 마치며
 
 ![](https://4.bp.blogspot.com/-jqhTPbKT5j4/XRC-NaJQK5I/AAAAAAAALZM/SHXPUCsHsv8yj-zEZrQj4k6R2BIInqudwCK4BGAYYCw/s640/9.jpeg)
+- 전체 사진 출처([@양성민님](https://github.com/ysm0622))
+
+>역대급으로 만족스러웠다.  
+다양한 인사이트와 깊은 반성 그리고 엄청난 동기부여를 받았던 컨퍼런스였다.  
+더 이상 무슨 말이 필요할까
