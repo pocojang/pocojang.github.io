@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="S1CPebB-_3fi1-9r0_WWgx_cRQh187CxWzYm5xIxKzs">
+    
+    <title>이것이 자바다 | Begginer Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="신용권의 Java 프로그래밍 정복! 이것이 자바다">
+<meta name="keywords" content="자바 입문 책,이것이 자바다,신용권">
+<meta property="og:type" content="article">
+<meta property="og:title" content="이것이 자바다">
+<meta property="og:url" content="https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/index.html">
+<meta property="og:site_name" content="Begginer Developer">
+<meta property="og:description" content="신용권의 Java 프로그래밍 정복! 이것이 자바다">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG">
+<meta property="og:updated_time" content="2019-10-13T13:42:42.241Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="이것이 자바다">
+<meta name="twitter:description" content="신용권의 Java 프로그래밍 정복! 이것이 자바다">
+<meta name="twitter:image" content="https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG">
+<meta property="fb:app_id" content="129422431071535">
+    <meta property="og:image:width" content="420">
+    <meta property="og:image:height" content="420">
+    
+    <link rel="stylesheet" href="/libs/noto-sans-kr/styles.css">
+
+    
+        <link rel="alternate" href="/feed.xml" title="Begginer Developer" type="application/atom+xml">
+    
+
+    
+        <link rel="icon" href="/libs/favicon.png">
+    
+
+    <link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/style.css">
+
+    <script src="/libs/jquery/2.1.3/jquery.min.js"></script>
+    
+    
+    
+        <link rel="stylesheet" href="/libs/justified-gallery/justifiedGallery.min.css">
+    
+    
+        <script type="text/javascript">
+(function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-109978804-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+    
+    
+
+
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css">
+</head>
+</html>
+<body>
+    <div id="container">
+        <header id="header">
+    <div id="header-main" class="header-inner">
+        <div class="outer">
+            <a href="/" id="logo">
+                
+                <span class="site-title">Begginer Developer</span>
+            </a>
+            <nav id="main-nav">
+                
+                    <a class="main-nav-link" href="/archives">Archives</a>
+                
+            </nav>
+            
+            <div id="search-form-wrap">
+
+    <form class="search-form">
+        <input type="text" class="ins-search-input search-form-input" placeholder="Search" />
+        <button type="submit" class="search-form-submit"></button>
+    </form>
+    <div class="ins-search">
+    <div class="ins-search-mask"></div>
+    <div class="ins-search-container">
+        <div class="ins-input-wrapper">
+            <input type="text" class="ins-search-input" placeholder="Type something..." />
+            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: 'Posts',
+            PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
+            UNTITLED: '(Untitled)',
+        },
+        ROOT_URL: '/',
+        CONTENT_URL: '/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+<script src="/js/insight.js"></script>
+
+</div>
+        </div>
+    </div>
+    <div id="main-nav-mobile" class="header-sub header-inner">
+        <table class="menu outer">
+            <tr>
+                
+                    <td><a class="main-nav-link" href="/archives">Archives</a></td>
+                
+                <td>
+                    
+    <div class="search-form">
+        <input type="text" class="ins-search-input search-form-input" placeholder="Search" />
+    </div>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</header>
+
+        <div class="outer">
+            
+            <section id="main"><article id="post-2018-04-12-this-is-java" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+            
+	
+		<img src="https://1.bp.blogspot.com/-IC2uw1zGtsI/WtGVBqi3EfI/AAAAAAAADOQ/HQnMgHgGnEwYXc8KWV_9IK2NM5s8dNEXQCK4BGAYYCw/s640/P20180414_094618059_372F353E-8086-4BF2-856C-431B48A5FA6C.JPG" class="article-banner" />
+	
+
+
+
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 class="article-title" itemprop="name">
+            이것이 자바다
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/2018/04/12/2018-04-12-this-is-java/">
+            <time datetime="2018-04-11T15:00:00.000Z" itemprop="datePublished">2018-04-12</time>
+        </a>
+    </div>
+
+
+                        
+    <div class="article-category">
+    	<i class="fa fa-folder"></i>
+        <a class="article-category-link" href="/categories/book/">book</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/book/programming/">programming</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/book/programming/java/">java</a>
+    </div>
+
+                        
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/신용권/">신용권</a>, <a class="tag-link" href="/tags/이것이-자바다/">이것이 자바다</a>, <a class="tag-link" href="/tags/자바-입문-책/">자바 입문 책</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>신용권의 Java 프로그래밍 정복! 이것이 자바다</p>
+<a id="more"></a>
+
+<hr>
+<blockquote>
+<h3 id="책-정보"><a href="#책-정보" class="headerlink" title="책 정보"></a>책 정보</h3><p>출판사 : 한빛미디어<br>저자 : 신용권<br>출간 : 2015.01.06<br>페이지 : 1224<br>ISBN : 9788968481475<br>가격 : 30,000 원</p>
+</blockquote>
+<ul>
+<li><dl><dt>자세한 정보<br>: <a href="http://book.naver.com/bookdb/book_detail.nhn?bid=8589375" target="_blank" rel="noopener">http://book.naver.com/bookdb/book_detail.nhn?bid=8589375</a></dt><dd><a href="http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937" target="_blank" rel="noopener">http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937</a></dd></dl></li>
+<li><dl><dt>이것이 자바다 카페</dt><dd><a href="http://cafe.naver.com/thisisjava" target="_blank" rel="noopener">http://cafe.naver.com/thisisjava</a></dd></dl></li>
+<li><dl><dt>3강까지만 제공되는 샘플 영상</dt><dd><a href="https://www.youtube.com/playlist?list=PLVsNizTWUw7FPokuK8Cmlt72DQEt7hKZu" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PLVsNizTWUw7FPokuK8Cmlt72DQEt7hKZu</a></dd></dl></li>
+</ul>
+<h2 id="소개"><a href="#소개" class="headerlink" title="소개"></a>소개</h2><p>이전에 국비 지원으로 Java 교육을 5개월가량 받을 때를 제외하고 Java와는 남남처럼 지내고 있었는데 <code>한빛미디어</code>의 은총으로 오랜만에 Java 기본서를 펴보게 되었다.</p>
+<p>처음 <code>이것이 자바다</code>를 받아봤을 때는 이미 Java 기본서를 여러 번 접해봤기때문에 뭐 별거 있겠어? 싶었다.</p>
+<p>JavaScript 같은 경우에는 워낙 다양한 스타일과 종류가 있고 언어 자체가<br>느슨하기 때문에 저자의 스타일에 따라 코드 내용이 다르기도 하지만 Java같은 경우에는 컨셉과 목차 스타일 그리고 코드를 풀어나가는 느낌과 개념 설명 말고는 큰 차이를 알기는 어려웠다. (물론 책마다 완성도는 큰 차이가 있다)</p>
+<h2 id="입문부터-깊이까지-초보자부터-숙련자까지"><a href="#입문부터-깊이까지-초보자부터-숙련자까지" class="headerlink" title="입문부터 깊이까지 초보자부터 숙련자까지"></a>입문부터 깊이까지 초보자부터 숙련자까지</h2><p>큰 기대는 없었다.</p>
+<p>워낙 Java 기본서는 책의 가짓수만 해도 어마어마하고 그나마 유명한 책 중 <code>난 정말 JAVA를 공부한 적이 없다구요</code>, <code>헤드퍼스트 Java</code>, <code>Java의 정석</code>을 읽은 적이 있다(꼼꼼하게 공부하지 못했는지 기억이 잘나지 않는다….)</p>
+<ul>
+<li><p>난 정말 JAVA를 공부한 적이 없다구요: 개념 설명이 쉽게 되어 읽기 좋고 가장 Java를 깨우치는 도움이 되었던 책이지만 구성이 좀 부실했다. (대신 동영상 제공)</p>
+</li>
+<li><p>헤드퍼스트 Java: 재미있는 책이다. 구성도 마음에 들고 책 설명처럼 뇌를 자극하는 느낌이지만…. 너무 산만하고 레거시하다는 생각도 들었다.</p>
+</li>
+<li><p>Java의 정석: 정말 정적이고 딱딱하다는 느낌을 받았다. 개념에 충실한 정말 교과서 같은 기본서다. 지루해서 읽다가 포기했던 기억이 있다.</p>
+</li>
+</ul>
+<p>현업에서 Java를 하고 있지도 않고 시간이 부족해서 동영상도 보지 못했고 한빛미디어와의 약속이 있기때문에 이것이 자바다는 중요 개념과 궁금한 내용 위주로 읽어 나갔다.</p>
+<p><img src="https://4.bp.blogspot.com/-MHXbli8lzX4/WtGVBXRXmJI/AAAAAAAADN4/KN2FREjDPrs2doWdjHJlj6DOSwdiswZkACK4BGAYYCw/s1600/P20180414_094912115_54461DE1-5ECD-4F8F-A5A7-B628DB5753AE.JPG" alt><br>챕터를 마치고 꼭 확인을 한다</p>
+<p>이것이 자바다를 보고 느낀 건 정말 완전체 같다는 느낌이였다.<br>1000페이지가 넘는 분량인데 뭐하나 빠지는 게 없고 <code>입문하기에 어렵지도 않으며 나름 딥하기까지하다.</code></p>
+<p><img src="https://3.bp.blogspot.com/-Vw9Nv3S5wy4/WtGVBZYO1uI/AAAAAAAADOM/lxzBfE8dx0gcCBKnCKOlIumuCVl73zM4QCK4BGAYYCw/s1600/P20180414_094936593_ACE396FE-300D-45F1-9B1F-BE9D7435A696.JPG" alt><br>또한 개념 설명은 꼭 짚고 넘어가며 연습문제도 있고 <strong>코드 설명이 너무나 친절하다.</strong></p>
+<p><img src="http://1.bp.blogspot.com/-vsmsWh-OeCs/WtGaihwr3_I/AAAAAAAADO0/_LrX4z8a8yA-XPKOQ0lGyyT0MkOVxWZaQCK4BGAYYCw/s1600/P20180414_094644696_41035B0C-4864-4524-B46D-2665C5C617FC.JPG" alt><br>영상을 보지는 못했지만 함께한다면 효과는 더 크지 않을까 싶다.</p>
+<h2 id="Java-개념"><a href="#Java-개념" class="headerlink" title="Java 개념"></a>Java 개념</h2><p>다른 언어들도 마찬가지이겠지만 Java를 통해 얻을 수 있는 것들이 굉장히 많다.</p>
+<p>OOP, 인터페이스, 클래스, 다형성 등등 코딩만으로는 해결되지 않는 이러한 <strong>개념에 대한 이해가 Java 학습에 있어서 큰 허들이 될 수 있다.</strong></p>
+<p><img src="https://4.bp.blogspot.com/-s3hSliUBqfY/WtGVBRBTTSI/AAAAAAAADOI/oah0yUy_Q282Cg_yNKKd8ay0T2GY8V-FgCK4BGAYYCw/s1600/P20180414_094844421_C7FA33F0-F01B-448A-BD4C-A98BB59731C4.JPG" alt></p>
+<p>이것이 자바다에서 인상적인 부분은 <code>정말 꼼꼼하게 개념 요소들을 챙긴다</code>.<br>놓치는 게 없다고 볼 수 있을 정도였다.</p>
+<h2 id="API"><a href="#API" class="headerlink" title="API"></a>API</h2><p>사실 이 책에 API까지 있을거라고는 생각도 못했고 기본 API정도 밖에는 나오지 않지만 API를 이렇게 쉽게 설명해주는구나…. 감동이였다.</p>
+<p><img src="https://2.bp.blogspot.com/-TUaJdyOmJrU/WtGVB7EHtEI/AAAAAAAADOU/xHIVswwFHSEU34IW4KQZzEZHoc-LR6JXgCK4BGAYYCw/s1600/P20180414_094959314_FAF03C4E-4262-4916-A49B-D87FD628631A.JPG" alt><br>API 설명</p>
+<h2 id="후기"><a href="#후기" class="headerlink" title="후기"></a>후기</h2><p><img src="https://3.bp.blogspot.com/-vK99ODmpkx4/WtGVBrbpUOI/AAAAAAAADOY/Evd-xc2gCY41W_wT-3dImcCbvi0IGREFQCK4BGAYYCw/s1600/P20180414_094720940_9C965570-07DC-42A5-A8CA-E5622C7BB2FA.JPG" alt><br>정말 독자를 세심하게 챙긴다는 것을 알 수 있다.</p>
+<blockquote>
+<p>독자를 세심하게 챙기며<br>개념은 꼼꼼하게 놓치지 않고<br>설명은 도식화하여 이해시키려 노력한다.</p>
+</blockquote>
+<p>누군가 Java 책을 추천해달라고 하면 입문일 때는 이 책 언제는 저 책<br>상황에 따라 나눠서 추천했었겠지만 <strong>이제는 <code>이것이 자바다</code> 한 권으로 기본을 확실하게 넘어가라고 권하고 싶다.</strong></p>
+<p><img src="https://3.bp.blogspot.com/-U30YrztOzHI/WtGUEcI6NmI/AAAAAAAADNc/e3iDhZNWF0Mrw0eYsvK_zSzB2VZOc2L1QCK4BGAYYCw/s1600/this-is-java-roadmap.png" alt><br>카페에 가보니 직딩들을 위한 목차가 있었다.</p>
+<blockquote>
+<p>프로그래밍에 처음 입문해도 Java를 처음 배워도 Java를 깊이 있게 보고 싶어도 <strong>이것이 자바다</strong> 하나로 해결 가능하지 않을까 생각이 들었다.</p>
+</blockquote>
+<p><strong>이 서평은 한빛미디어를 통해 제공받은 서적을 토대로 작성된 리뷰입니다.</strong></p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/" data-id="ck1p2m1d7001fnjrxn7wkaujv" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/">Comments</a>
+    
+
+        </footer>
+    </div>
+    
+        
+<nav id="article-nav">
+    
+        <a href="/2018/04/29/2018-04-29-run-simple-ts/" id="article-nav-newer" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">Newer</strong>
+            <div class="article-nav-title">
+                
+                    VS 코드 콘솔에서 TypeScript 실행하기
+                
+            </div>
+        </a>
+    
+    
+        <a href="/2018/02/18/2018-02-18-hello-coding-programming/" id="article-nav-older" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">Older</strong>
+            <div class="article-nav-title">Hello Coding 프로그래밍</div>
+        </a>
+    
+</nav>
+
+
+    
+</article>
+
+
+    
+    
+        <section id="comments">
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+</section>
+    
+
+</section>
+            
+                
+<aside id="sidebar">
+    <div class="profile-block social-links">
+        <table>
+            <tr>
+                
+                
+                <td>
+                    <a href="http://github.com/devjang" target="_blank" title="github" >
+                        <i class="fa fa-github"></i>
+                    </a>
+                </td>
+                
+                <td>
+                    <a href="https://www.linkedin.com/in/devjang" target="_blank" title="linkedin" >
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </td>
+                
+                <td>
+                    <a href="mailto:devjang2016@gmail.com" target="_blank" title="envelope" >
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                </td>
+                
+                <td>
+                    <a href="/feed.xml" target="_blank" title="rss" >
+                        <i class="fa fa-rss"></i>
+                    </a>
+                </td>
+                
+            </tr>
+        </table>
+    </div>
+   
+        
+    <div class="widget-wrap">
+        <h3 class="widget-title">categories</h3>
+        <div class="widget">
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/TIL/">TIL</a><span class="category-list-count">8</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/TIL/javascript/">javascript</a><span class="category-list-count">8</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/TIL/javascript/javascipt30/">javascipt30</a><span class="category-list-count">8</span></li></ul></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/">book</a><span class="category-list-count">24</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/">programming</a><span class="category-list-count">20</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/computer-science/">computer science</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/css/">css</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/framework/">framework</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/java/">java</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/programming/javascript/">javascript</a><span class="category-list-count">7</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/book/self-help/">self-help</a><span class="category-list-count">4</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/column/">column</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/conference/">conference</a><span class="category-list-count">10</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/programming/">programming</a><span class="category-list-count">4</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/programming/javascript/">javascript</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/programming/tip/">tip</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/programming/typescript/">typescript</a><span class="category-list-count">2</span></li></ul></li></ul>
+        </div>
+    </div>
+
+    
+        
+    <div class="widget-wrap">
+        <h3 class="widget-title">recent</h3>
+        <div class="widget">
+            <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2019/10/13/2019-10-13-line-developer/" class="thumbnail">
+    
+    
+        <span style="background-image:url(https://3.bp.blogspot.com/-EGOkBwiP1_s/XaMqclFviJI/AAAAAAAAP3E/lpZfdzYS1XYl_CHF7ApVkdrj6xZ7xOsuQCK4BGAYYCw/s640/20191013_211748.jpg)" alt="나는 LINE 개발자입니다" class="thumbnail-image"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/book/">book</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/book/programming/">programming</a></p>
+                            <p class="item-title"><a href="/2019/10/13/2019-10-13-line-developer/" class="title">나는 LINE 개발자입니다</a></p>
+                            <p class="item-date"><time datetime="2019-10-12T15:00:00.000Z" itemprop="datePublished">2019-10-13</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2019/08/25/2019-08-25-learning-developer/" class="thumbnail">
+    
+    
+        <span style="background-image:url(https://www.psywww.com/intropsych/ch07-cognition/07learningcurve.jpg)" alt="개발자의 공부하기" class="thumbnail-image"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/column/">column</a></p>
+                            <p class="item-title"><a href="/2019/08/25/2019-08-25-learning-developer/" class="title">개발자의 공부하기</a></p>
+                            <p class="item-date"><time datetime="2019-08-24T15:00:00.000Z" itemprop="datePublished">2019-08-25</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2019/08/09/2019-08-09-programming-interviews-exposed/" class="thumbnail">
+    
+    
+        <span style="background-image:url(https://4.bp.blogspot.com/-cZuGop7d_cY/XVA30EfBGsI/AAAAAAAAM8o/tAmTv5sWA_0XjqaOtWtmzkXbKx0BhCuGwCK4BGAYYCw/s640/20190810_173103.jpg)" alt="프로그래밍 면접 이렇게 준비한다" class="thumbnail-image"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/book/">book</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/book/programming/">programming</a></p>
+                            <p class="item-title"><a href="/2019/08/09/2019-08-09-programming-interviews-exposed/" class="title">프로그래밍 면접 이렇게 준비한다</a></p>
+                            <p class="item-date"><time datetime="2019-08-08T15:00:00.000Z" itemprop="datePublished">2019-08-09</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2019/07/12/2019-07-12-coding-algorithm-with-game/" class="thumbnail">
+    
+    
+        <span style="background-image:url(https://2.bp.blogspot.com/-dCBiBW2Ki4Y/XSrAv8ZOpBI/AAAAAAAALys/QEORaYGKbMErWqBMwHIgI6pECS9T8X2wgCK4BGAYYCw/s640/20190714_142853.jpg)" alt="게임으로 익히는 코딩 알고리즘" class="thumbnail-image"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/book/">book</a><i class="fa fa-angle-right"></i><a class="article-category-link" href="/categories/book/programming/">programming</a></p>
+                            <p class="item-title"><a href="/2019/07/12/2019-07-12-coding-algorithm-with-game/" class="title">게임으로 익히는 코딩 알고리즘</a></p>
+                            <p class="item-date"><time datetime="2019-07-11T15:00:00.000Z" itemprop="datePublished">2019-07-12</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2019/06/24/2019-06-24-gdg-front-endgame/" class="thumbnail">
+    
+    
+        <span style="background-image:url(https://cf.festa.io/img/2019-6-3/55c1bff8-8014-4997-9b0b-e5f52f1ddfed.jpeg)" alt="GDG FRONT-ENDGAME 참관 후기" class="thumbnail-image"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/conference/">conference</a></p>
+                            <p class="item-title"><a href="/2019/06/24/2019-06-24-gdg-front-endgame/" class="title">GDG FRONT-ENDGAME 참관 후기</a></p>
+                            <p class="item-date"><time datetime="2019-06-23T15:00:00.000Z" itemprop="datePublished">2019-06-24</time></p>
+                        </div>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+
+    
+        
+    <div class="widget-wrap">
+        <h3 class="widget-title">tag cloud</h3>
+        <div class="widget tagcloud">
+            <a href="/tags/2016-ksug/" style="font-size: 10px;">2016 ksug</a> <a href="/tags/2017-개발자-회고/" style="font-size: 10px;">2017 개발자 회고</a> <a href="/tags/90년생-개발자모임/" style="font-size: 10px;">90년생 개발자모임</a> <a href="/tags/9xd-개발자-모임/" style="font-size: 10px;">9xd 개발자 모임</a> <a href="/tags/CSS3/" style="font-size: 10px;">CSS3</a> <a href="/tags/CodePen/" style="font-size: 10px;">CodePen</a> <a href="/tags/CodeSandbox/" style="font-size: 10px;">CodeSandbox</a> <a href="/tags/ES2015/" style="font-size: 10px;">ES2015</a> <a href="/tags/ES6/" style="font-size: 10px;">ES6</a> <a href="/tags/GDG-DevFest-Seoul-2016/" style="font-size: 10px;">GDG DevFest Seoul 2016</a> <a href="/tags/HTML5/" style="font-size: 10px;">HTML5</a> <a href="/tags/Hello-Coding-프로그래밍/" style="font-size: 10px;">Hello Coding 프로그래밍</a> <a href="/tags/JS-Bin/" style="font-size: 10px;">JS Bin</a> <a href="/tags/JSDev-KR/" style="font-size: 10px;">JSDev.KR</a> <a href="/tags/JSFiddle/" style="font-size: 10px;">JSFiddle</a> <a href="/tags/Javascript-for-kids/" style="font-size: 10px;">Javascript for kids</a> <a href="/tags/LINE/" style="font-size: 10px;">LINE</a> <a href="/tags/React-Korea/" style="font-size: 10px;">React Korea</a> <a href="/tags/TypeScript/" style="font-size: 10px;">TypeScript</a> <a href="/tags/TypeScript-from-UglifyJs/" style="font-size: 10px;">TypeScript from UglifyJs</a> <a href="/tags/UglifyJs/" style="font-size: 10px;">UglifyJs</a> <a href="/tags/Vue-한국-사용자-모임/" style="font-size: 10px;">Vue 한국 사용자 모임</a> <a href="/tags/Vuetiful-Korea/" style="font-size: 10px;">Vuetiful Korea</a> <a href="/tags/Vuetiful-Korea-세-번째-밋업/" style="font-size: 10px;">Vuetiful Korea 세 번째 밋업</a> <a href="/tags/W3C-HTML5/" style="font-size: 10px;">W3C HTML5</a> <a href="/tags/W3C-HTML5-대한민국/" style="font-size: 10px;">W3C HTML5 대한민국</a> <a href="/tags/W3C-HTML5-대한민국-관심그룹-45차회의/" style="font-size: 10px;">W3C HTML5 대한민국 관심그룹 45차회의</a> <a href="/tags/angular/" style="font-size: 10px;">angular</a> <a href="/tags/c-입문-책/" style="font-size: 10px;">c# 입문 책</a> <a href="/tags/const/" style="font-size: 10px;">const</a> <a href="/tags/devfest2016/" style="font-size: 10px;">devfest2016</a> <a href="/tags/es6/" style="font-size: 10px;">es6</a> <a href="/tags/es6-코뿔소/" style="font-size: 10px;">es6 코뿔소</a> <a href="/tags/front-endgame/" style="font-size: 10px;">front-endgame</a> <a href="/tags/gdg/" style="font-size: 16.67px;">gdg</a> <a href="/tags/gdg-2017/" style="font-size: 10px;">gdg 2017</a> <a href="/tags/gdgkr/" style="font-size: 10px;">gdgkr</a> <a href="/tags/hybrid-framework/" style="font-size: 10px;">hybrid framework</a> <a href="/tags/intellij/" style="font-size: 13.33px;">intellij</a> <a href="/tags/javascript-es6/" style="font-size: 10px;">javascript es6</a> <a href="/tags/javascript-인문학/" style="font-size: 10px;">javascript 인문학</a> <a href="/tags/javascript-입문/" style="font-size: 10px;">javascript 입문</a> <a href="/tags/kenu/" style="font-size: 10px;">kenu</a> <a href="/tags/ksug/" style="font-size: 10px;">ksug</a> <a href="/tags/let/" style="font-size: 10px;">let</a> <a href="/tags/meteor/" style="font-size: 10px;">meteor</a> <a href="/tags/okky/" style="font-size: 13.33px;">okky</a> <a href="/tags/react/" style="font-size: 13.33px;">react</a> <a href="/tags/run-console/" style="font-size: 10px;">run console</a> <a href="/tags/run-terminal/" style="font-size: 10px;">run terminal</a> <a href="/tags/typescript/" style="font-size: 10px;">typescript</a> <a href="/tags/vanilla-javascript/" style="font-size: 20px;">vanilla javascript</a> <a href="/tags/var/" style="font-size: 10px;">var</a> <a href="/tags/velopert/" style="font-size: 10px;">velopert</a> <a href="/tags/visual-studio-code/" style="font-size: 10px;">visual studio code</a> <a href="/tags/vscode/" style="font-size: 10px;">vscode</a> <a href="/tags/가볍게-시작하기/" style="font-size: 10px;">가볍게 시작하기</a> <a href="/tags/강성태/" style="font-size: 10px;">강성태</a> <a href="/tags/강성태-공부의-신/" style="font-size: 10px;">강성태 공부의 신</a> <a href="/tags/개발-입문-서적/" style="font-size: 10px;">개발 입문 서적</a> <a href="/tags/개발자/" style="font-size: 10px;">개발자</a> <a href="/tags/개발자-로드맵/" style="font-size: 10px;">개발자 로드맵</a> <a href="/tags/개발자-인생/" style="font-size: 10px;">개발자 인생</a> <a href="/tags/객체지향-자바스크립트/" style="font-size: 10px;">객체지향 자바스크립트</a> <a href="/tags/객체지향-자바스크립트의-원리/" style="font-size: 10px;">객체지향 자바스크립트의 원리</a> <a href="/tags/게임-개발자-세미나/" style="font-size: 10px;">게임 개발자 세미나</a> <a href="/tags/게임으로-익히는-코딩-알고리즘/" style="font-size: 10px;">게임으로 익히는 코딩 알고리즘</a> <a href="/tags/공부/" style="font-size: 10px;">공부</a> <a href="/tags/공부의-신/" style="font-size: 10px;">공부의 신</a> <a href="/tags/공부자극/" style="font-size: 10px;">공부자극</a> <a href="/tags/공신/" style="font-size: 10px;">공신</a> <a href="/tags/그림으로-배우는-Java-Programming-Basic/" style="font-size: 10px;">그림으로 배우는 Java Programming Basic</a> <a href="/tags/기초-튼튼-코드-튼튼-다-함께-프로그래밍/" style="font-size: 10px;">기초 튼튼 코드 튼튼 다 함께 프로그래밍</a> <a href="/tags/김동우/" style="font-size: 10px;">김동우</a> <a href="/tags/김민준/" style="font-size: 10px;">김민준</a> <a href="/tags/김정윤/" style="font-size: 10px;">김정윤</a> <a href="/tags/김종광/" style="font-size: 10px;">김종광</a> <a href="/tags/김포프/" style="font-size: 10px;">김포프</a> <a href="/tags/나는-자바스크립트-개발자다/" style="font-size: 10px;">나는 자바스크립트 개발자다</a> <a href="/tags/나석주/" style="font-size: 10px;">나석주</a> <a href="/tags/난-정말-JAVA를-공부한-적이-없다구요/" style="font-size: 10px;">난 정말 JAVA를 공부한 적이 없다구요</a> <a href="/tags/누구나-쉽게-배우는-자바스크립트/" style="font-size: 10px;">누구나 쉽게 배우는 자바스크립트</a> <a href="/tags/도창욱/" style="font-size: 10px;">도창욱</a> <a href="/tags/러닝-자바스크립트/" style="font-size: 10px;">러닝 자바스크립트</a> <a href="/tags/리눅스/" style="font-size: 10px;">리눅스</a> <a href="/tags/만약-헤밍웨이가-자바스크립트로-코딩한다면/" style="font-size: 10px;">만약 헤밍웨이가 자바스크립트로 코딩한다면</a> <a href="/tags/먹고-코딩하고-사랑하기/" style="font-size: 10px;">먹고 코딩하고 사랑하기</a> <a href="/tags/모던-웹을-위한-HTML5-CSS3-바이블/" style="font-size: 10px;">모던 웹을 위한 HTML5+CSS3 바이블</a> <a href="/tags/미쳐야-공부다/" style="font-size: 10px;">미쳐야 공부다</a> <a href="/tags/미친-집중력/" style="font-size: 10px;">미친 집중력</a> <a href="/tags/번역/" style="font-size: 10px;">번역</a> <a href="/tags/벨로퍼트/" style="font-size: 10px;">벨로퍼트</a> <a href="/tags/블리자드-넥슨-박종천/" style="font-size: 10px;">블리자드 넥슨 박종천</a> <a href="/tags/비전공자를-위한-자바-프로그래밍/" style="font-size: 10px;">비전공자를 위한 자바 프로그래밍</a> <a href="/tags/서재원/" style="font-size: 10px;">서재원</a> <a href="/tags/습관의-재발견/" style="font-size: 10px;">습관의 재발견</a> <a href="/tags/신용권/" style="font-size: 10px;">신용권</a> <a href="/tags/신입-개발자/" style="font-size: 10px;">신입 개발자</a> <a href="/tags/신입-개발자-멘토/" style="font-size: 10px;">신입 개발자 멘토</a> <a href="/tags/신입-프론트엔드/" style="font-size: 10px;">신입 프론트엔드</a> <a href="/tags/신입-프론트엔드-개발자/" style="font-size: 10px;">신입 프론트엔드 개발자</a> <a href="/tags/신정규/" style="font-size: 10px;">신정규</a> <a href="/tags/알고리즘/" style="font-size: 16.67px;">알고리즘</a> <a href="/tags/앵귤러-예제책/" style="font-size: 10px;">앵귤러 예제책</a> <a href="/tags/앵귤러-책-추천/" style="font-size: 10px;">앵귤러 책 추천</a> <a href="/tags/앵귤러-첫걸음/" style="font-size: 10px;">앵귤러 첫걸음</a> <a href="/tags/예제로-배우는-ECMAScript-6-핵심-기능/" style="font-size: 10px;">예제로 배우는 ECMAScript 6 핵심 기능</a> <a href="/tags/이것이-자바다/" style="font-size: 10px;">이것이 자바다</a> <a href="/tags/이종립/" style="font-size: 10px;">이종립</a> <a href="/tags/이종은/" style="font-size: 10px;">이종은</a> <a href="/tags/인사이드-자바스크립트/" style="font-size: 10px;">인사이드 자바스크립트</a> <a href="/tags/자바-입문-서적/" style="font-size: 16.67px;">자바 입문 서적</a> <a href="/tags/자바-입문-책/" style="font-size: 10px;">자바 입문 책</a> <a href="/tags/자바-입문용/" style="font-size: 16.67px;">자바 입문용</a> <a href="/tags/자바-초보-책/" style="font-size: 16.67px;">자바 초보 책</a> <a href="/tags/자바스크립트-oop/" style="font-size: 10px;">자바스크립트 oop</a> <a href="/tags/자바스크립트-개발자-포럼/" style="font-size: 10px;">자바스크립트 개발자 포럼</a> <a href="/tags/자바스크립트-입문-책/" style="font-size: 10px;">자바스크립트 입문 책</a> <a href="/tags/자바스크립트를-깨우치다/" style="font-size: 10px;">자바스크립트를 깨우치다</a> <a href="/tags/작은-습관의-힘/" style="font-size: 10px;">작은 습관의 힘</a> <a href="/tags/조은/" style="font-size: 10px;">조은</a> <a href="/tags/지속하는-기술/" style="font-size: 10px;">지속하는 기술</a> <a href="/tags/지속하는-힘/" style="font-size: 10px;">지속하는 힘</a> <a href="/tags/진겸/" style="font-size: 10px;">진겸</a> <a href="/tags/집중력-책/" style="font-size: 10px;">집중력 책</a> <a href="/tags/천민호/" style="font-size: 10px;">천민호</a> <a href="/tags/초보개발자들을-위한-웹-프론트엔드-개발-101/" style="font-size: 10px;">초보개발자들을 위한 웹 프론트엔드 개발 101</a> <a href="/tags/터미널-에디터-실행/" style="font-size: 10px;">터미널 에디터 실행</a> <a href="/tags/팔굽혀펴기-하루-한-번/" style="font-size: 10px;">팔굽혀펴기 하루 한 번</a> <a href="/tags/프로그래머의-길-멘토에게-묻다/" style="font-size: 10px;">프로그래머의 길 멘토에게 묻다</a> <a href="/tags/프로그래밍-면접/" style="font-size: 10px;">프로그래밍 면접</a> <a href="/tags/프로그래밍-시작하기/" style="font-size: 10px;">프로그래밍 시작하기</a> <a href="/tags/한근택/" style="font-size: 10px;">한근택</a> <a href="/tags/한재엽/" style="font-size: 10px;">한재엽</a> <a href="/tags/허광남/" style="font-size: 10px;">허광남</a> <a href="/tags/훌륭한-게임-개발자-되기/" style="font-size: 10px;">훌륭한 게임 개발자 되기</a>
+        </div>
+    </div>
+
+    
+    <div id="toTop" class="fa fa-angle-up"></div>
+</aside>
+
+            
+        </div>
+        <footer id="footer">
+    <div class="outer">
+        <div id="footer-info" class="inner">
+            &copy; 2019 DevJang<br>
+            Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>. Theme by <a href="http://github.com/ppoffice">PPOffice</a>
+        </div>
+    </div>
+</footer>
+        
+    
+    <script>
+    var disqus_config = function () {
+        
+            this.page.url = 'https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/';
+        
+        this.page.identifier = '2018-04-12-this-is-java';
+    };
+    (function() { 
+        var d = document, s = d.createElement('script');  
+        s.src = '//' + 'devjang' + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+
+
+
+    
+    
+        <script src="/libs/justified-gallery/jquery.justifiedGallery.min.js"></script>
+    
+    
+
+
+
+<!-- Custom Scripts -->
+<script src="/js/main.js"></script>
+
+    </div>
+</body>
+</html>
