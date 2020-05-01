@@ -19,7 +19,7 @@ banner: https://4.bp.blogspot.com/-cZuGop7d_cY/XVA30EfBGsI/AAAAAAAAM8o/tAmTv5sWA
 >출판사 : 한빛미디어  
 >원제 : Programming Interviews Exposed  
 >저자 : 존 몽건, 노아 킨들러, 에릭 기게리  
->역자 서환수  
+>역자 : 서환수  
 >출간 : 2019-07-04  
 >페이지 : 568  
 >ISBN : 9791162241998  
