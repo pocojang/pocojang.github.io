@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "4.2.1"
+    "version": "5.2.0"
   },
   "scripts": {
     "start": "hexo server -w",
@@ -11,19 +11,19 @@
     "push": "git add . && git commit -m \"update on `date +\"%Y/%m/%d %H:%M:%S\"`\" && git push origin original; exit 0"
   },
   "dependencies": {
-    "hexo": "^4.2.0",
+    "hexo": "^5.2.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
-    "hexo-generator-feed": "^2.2.0",
-    "hexo-generator-index": "^1.0.0",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-index": "^2.0.0",
     "hexo-generator-json-content": "^4.2.3",
     "hexo-generator-robotstxt": "^0.2.0",
     "hexo-generator-seo-friendly-sitemap": "0.0.25",
     "hexo-generator-tag": "^1.0.0",
     "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^2.0.0",
-    "hexo-renderer-stylus": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "hexo-renderer-marked": "^3.3.0",
+    "hexo-renderer-stylus": "^2.0.1",
+    "hexo-server": "^2.0.0"
   }
 }
