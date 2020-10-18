@@ -3,8 +3,22 @@
 
 
     <url>
+        <loc>https://devjang.github.io/tags/React/</loc>
+        <lastmod>2020-10-18T13:19:15.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/TypeScript/</loc>
+        <lastmod>2020-10-18T13:19:15.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/tags/start-up/</loc>
-        <lastmod>2020-09-27T14:24:43.340Z</lastmod>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -472,13 +486,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/TypeScript/</loc>
-        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/TypeScript-from-UglifyJs/</loc>
         <lastmod>2020-08-18T13:48:29.855Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -913,27 +920,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/%25EB%25A8%25B9%25EA%25B3%25A0-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%2598%25EA%25B3%25A0-%25EC%2582%25AC%25EB%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
-        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/2016-ksug/</loc>
-        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/ksug/</loc>
-        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/%25EB%25AF%25B8%25EC%25B3%2590%25EC%2595%25BC-%25EA%25B3%25B5%25EB%25B6%2580%25EB%258B%25A4/</loc>
         <lastmod>2020-08-18T13:48:29.850Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -970,6 +956,27 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B0%2595%25EC%2584%25B1%25ED%2583%259C/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%25EB%25A8%25B9%25EA%25B3%25A0-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%2598%25EA%25B3%25A0-%25EC%2582%25AC%25EB%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/2016-ksug/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/ksug/</loc>
         <lastmod>2020-08-18T13:48:29.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

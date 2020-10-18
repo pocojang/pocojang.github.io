@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
+        <lastmod>2020-10-18T13:19:15.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
-        <lastmod>2020-09-27T14:24:43.340Z</lastmod>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -144,7 +152,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
         <lastmod>2020-08-18T13:48:29.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -152,7 +160,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2020-08-18T13:48:29.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -416,7 +424,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/17/2016-06-17-crazy-study/</loc>
+        <loc>https://devjang.github.io/2016/06/19/2016-06-19-ksug/</loc>
         <lastmod>2020-08-18T13:48:29.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -424,7 +432,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/19/2016-06-19-ksug/</loc>
+        <loc>https://devjang.github.io/2016/06/17/2016-06-17-crazy-study/</loc>
         <lastmod>2020-08-18T13:48:29.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
