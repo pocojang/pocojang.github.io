@@ -367,7 +367,7 @@ banner: https://1.bp.blogspot.com/-DmsVIwky9Hw/X4vkqkWhf_I/AAAAAAAAe2I/Gdx92m2aQ
 ### Q & A
 
 - 개발자는 많지만 쓸만한 개발자는 없다
-- 과한 패턴에 대한 집착을 유연성을 잃게 만든다
+- 과한 패턴에 대한 집착은 유연성을 잃게 만든다
 - Redux는 MVC에 적합
 - MobX는 MVVM에 적합
 - 포트폴리오는 주로 코드만 확인한다
