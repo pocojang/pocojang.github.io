@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2020/11/15/2020-11-15-geultto-5th/</loc>
+        <lastmod>2020-11-15T04:54:03.702Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
         <lastmod>2020-10-29T05:51:38.482Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1/</loc>
+        <loc>https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6/</loc>
         <lastmod>2020-08-18T13:48:29.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,7 +152,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6/</loc>
+        <loc>https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1/</loc>
         <lastmod>2020-08-18T13:48:29.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,22 +216,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
-        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
-        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2018/02/18/2018-02-18-hello-coding-programming/</loc>
         <lastmod>2020-08-18T13:48:29.856Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -232,7 +224,23 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
         <lastmod>2020-08-18T13:48:29.856Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -280,14 +288,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
-        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2017/07/14/2017-07-14-first-step-angular/</loc>
         <lastmod>2020-08-18T13:48:29.854Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -296,7 +296,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
+        <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
         <lastmod>2020-08-18T13:48:29.854Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -305,6 +305,14 @@
 
     <url>
         <loc>https://devjang.github.io/2017/11/19/2017-11-19-gdg-dev-fest/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
         <lastmod>2020-08-18T13:48:29.854Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -328,7 +336,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
+        <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
         <lastmod>2020-08-18T13:48:29.853Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -336,7 +344,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
+        <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
         <lastmod>2020-08-18T13:48:29.853Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -360,7 +368,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
+        <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
         <lastmod>2020-08-18T13:48:29.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -368,7 +376,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
+        <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
         <lastmod>2020-08-18T13:48:29.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
