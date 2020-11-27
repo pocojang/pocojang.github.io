@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Begginer Developer
-subtitle: 
-description: Begginer Front-end Developer Blog
+title: Front-end Engineer
+subtitle:
+description: Beginner Front-end Engineer Blog
 author: DevJang
 language: en
 
@@ -89,7 +89,7 @@ theme: icarus
 deploy:
   type: git
   repo: https://github.com/devJang/devjang.github.com.git
-  branch: master
+  branch: gh-pages
 
 sitemap:
   path: sitemap.xml
@@ -101,7 +101,7 @@ feed:
   hub:
 
 robotstxt:
-  useragent: "*"
+  useragent: '*'
   disallow:
   allow:
     - /
