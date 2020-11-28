@@ -8,16 +8,50 @@
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2020/04/30/2020-04-30-the-manager-path/</loc>
         <lastmod>2020-05-01T04:41:58.824Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2020/11/15/2020-11-15-geultto-5th/</loc>
+        <lastmod>2020-11-15T14:17:33.804Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed/</loc>
         <lastmod>2020-05-01T03:35:59.157Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
+        <lastmod>2020-10-29T05:51:38.482Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2019/11/20/2019-11-20-technique-react-book/</loc>
+        <lastmod>2020-08-18T14:12:21.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2019/12/01/2019-12-01-harvard-time-management/</loc>
+        <lastmod>2020-08-18T14:12:04.381Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,151 +59,283 @@
 
     <url>
         <loc>https://devjang.github.io/2019/10/13/2019-10-13-line-developer/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T14:13:32.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.863Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/06/17/2016-06-17-crazy-study/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2020/04/30/2020-04-30-the-manager-path/</loc>
+        <lastmod>2020-08-18T13:48:29.863Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/08/25/2019-08-25-learning-developer/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/07/14/2016-07-14-java-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/08/20/2016-08-20-java-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/07/21/2016-07-21-concentration-crazy/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5/</loc>
+        <lastmod>2020-08-18T13:48:29.860Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6/</loc>
+        <lastmod>2020-08-18T13:48:29.860Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/04/14/2019-04-14-javascipt30-7/</loc>
+        <lastmod>2020-08-18T13:48:29.860Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/04/14/2019-04-14-linux-example-photo-book/</loc>
+        <lastmod>2020-08-18T13:48:29.860Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/07/14/2017-07-14-first-step-angular/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/11/30/2017-11-30-ts-uglify/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/2018/02/18/2018-02-18-hello-coding-programming/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip/</loc>
+        <lastmod>2020-08-18T13:48:29.857Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/2018/04/29/2018-04-29-run-simple-ts/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -177,7 +343,7 @@
 
     <url>
         <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -185,15 +351,8 @@
 
     <url>
         <loc>https://devjang.github.io/2018/02/18/2018-02-18-hello-coding-programming/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2018/04/29/2018-04-29-run-simple-ts/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -201,207 +360,336 @@
 
     <url>
         <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2018/04/29/2018-04-29-run-simple-ts/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/02/15/2019-02-15-enlightenment-js/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/11/30/2017-11-30-ts-uglify/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/02/22/2019-02-22-understanding-ecmascript-6/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/12/01/2017-12-01-vuetiful-ko-third-meetup/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/03/03/2019-03-03-javascipt30-1/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/07/14/2017-07-14-first-step-angular/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/03/15/2017-03-15-jsdev-react-1st-meetup/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/08/13/2017-08-13-learning-js/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/03/31/2019-03-31-javascipt30-5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/04/14/2019-04-14-javascipt30-7/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/11/19/2017-11-19-gdg-dev-fest/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/04/07/2019-04-07-javascipt30-6/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/04/14/2019-04-14-linux-example-photo-book/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/07/21/2016-07-21-concentration-crazy/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/08/25/2019-08-25-learning-developer/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/08/20/2016-08-20-java-book/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/06/19/2016-06-19-ksug/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/08/21/2016-08-21-dev-start/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2016/11/05/2016-11-05-gdg-devfest-seoul-2016/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/03/15/2017-03-15-jsdev-react-1st-meetup/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/11/05/2016-11-05-gdg-devfest-seoul-2016/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/11/19/2017-11-19-gdg-dev-fest/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/12/01/2017-12-01-vuetiful-ko-third-meetup/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/07/14/2016-07-14-java-book/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/06/17/2016-06-17-crazy-study/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/2019/06/24/2019-06-24-gdg-front-endgame/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/2016/06/19/2016-06-19-ksug/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

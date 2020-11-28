@@ -3,960 +3,1667 @@
 
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/MANAGER/</loc>
         <lastmod>2020-05-01T04:41:58.824Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B8%2580%25EC%2593%25B0%25EA%25B8%25B0/</loc>
+        <lastmod>2020-11-15T14:17:33.804Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D-%25EB%25A9%25B4%25EC%25A0%2591/</loc>
         <lastmod>2020-05-01T03:35:59.157Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B8%2580%25EB%2598%2590/</loc>
+        <lastmod>2020-11-15T14:17:33.804Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598/</loc>
         <lastmod>2020-05-01T03:35:59.157Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/React/</loc>
+        <lastmod>2020-10-29T05:51:38.482Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/tags/LINE/</loc>
+        <lastmod>2019-10-13T14:13:32.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/TypeScript/</loc>
+        <lastmod>2020-10-29T05:51:38.482Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EB%25AF%25BC%25EC%25A4%2580/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/start-up/</loc>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/tags/%25EB%25B2%25A8%25EB%25A1%259C%25ED%258D%25BC%25ED%258A%25B8/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/velopert/</loc>
+        <lastmod>2020-08-18T14:12:21.027Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/tags/velopert/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/react/</loc>
+        <lastmod>2020-08-18T14:12:21.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%25EC%258B%259C%25EA%25B0%2584%25EA%25B4%2580%25EB%25A6%25AC/</loc>
+        <lastmod>2020-08-18T14:12:04.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/MANAGER/</loc>
+        <lastmod>2020-08-18T13:48:29.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/LINE/</loc>
-        <lastmod>2019-10-13T14:13:32.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.863Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EB%25AF%25BC%25EC%25A4%2580/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EB%25B2%25A8%25EB%25A1%259C%25ED%258D%25BC%25ED%258A%25B8/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/velopert/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25ED%2595%259C%25EA%25B7%25BC%25ED%2583%259D/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EB%2582%2598%25EC%2584%259D%25EC%25A3%25BC/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EC%2584%259C%25EC%259E%25AC%25EC%259B%2590/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25ED%2595%259C%25EC%259E%25AC%25EC%2597%25BD/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EC%25A7%2584%25EA%25B2%25B8/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EC%25B2%259C%25EB%25AF%25BC%25ED%2598%25B8/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/front-endgame/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/2017-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25ED%259A%258C%25EA%25B3%25A0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B3%25B5%25EB%25B6%2580/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25A9%2598%25ED%2586%25A0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/const/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D-%25EB%25A9%25B4%25EC%25A0%2591/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/let/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B2%258C%25EC%259E%2584%25EC%259C%25BC%25EB%25A1%259C-%25EC%259D%25B5%25ED%259E%2588%25EB%258A%2594-%25EC%25BD%2594%25EB%2594%25A9-%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/var/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/es6/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/gdg/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25B2%2588%25EC%2597%25AD/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/CSS3/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/HTML5/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25AA%25A8%25EB%258D%2598-%25EC%259B%25B9%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-HTML5-CSS3-%25EB%25B0%2594%25EC%259D%25B4%25EB%25B8%2594/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/vanilla-javascript/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/Vue-%25ED%2595%259C%25EA%25B5%25AD-%25EC%2582%25AC%25EC%259A%25A9%25EC%259E%2590-%25EB%25AA%25A8%25EC%259E%2584/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25A6%25AC%25EB%2588%2585%25EC%258A%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.860Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/Vuetiful-Korea-%25EC%2584%25B8-%25EB%25B2%2588%25EC%25A7%25B8-%25EB%25B0%258B%25EC%2597%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/ES2015/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/Vuetiful-Korea/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/ES6/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/gdg-2017/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%2598%2588%25EC%25A0%259C%25EB%25A1%259C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-ECMAScript-6-%25ED%2595%25B5%25EC%258B%25AC-%25EA%25B8%25B0%25EB%258A%25A5/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EC%25A2%2585%25EB%25A6%25BD/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EB%25A5%25BC-%25EA%25B9%25A8%25EC%259A%25B0%25EC%25B9%2598%25EB%258B%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/React-Korea/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-oop/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/JSDev-KR/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259D%25EC%25B2%25B4%25EC%25A7%2580%25ED%2596%25A5-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/angular/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259D%25EC%25B2%25B4%25EC%25A7%2580%25ED%2596%25A5-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EC%259D%2598-%25EC%259B%2590%25EB%25A6%25AC/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25ED%258F%25AC%25EB%259F%25BC/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/const/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EC%25A2%2585%25EC%259D%2580/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/let/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%25A0%2595%25EA%25B7%259C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/var/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%2582%2598%25EB%258A%2594-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%258B%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/es6/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EC%25A2%2585%25EA%25B4%2591/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25B2%2588%25EC%2597%25AD/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EB%258F%2599%25EC%259A%25B0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
+        <lastmod>2020-08-18T13:48:29.857Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/gdgkr/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
+        <lastmod>2020-08-18T13:48:29.857Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/GDG-DevFest-Seoul-2016/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C/</loc>
+        <lastmod>2020-08-18T13:48:29.857Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/gdg/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/run-console/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/devfest2016/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/typescript/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%25B4%2588%25EB%25B3%25B4%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%2593%25A4%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-%25EC%259B%25B9-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C-%25EA%25B0%259C%25EB%25B0%259C-101/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/CodeSandbox/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%25A1%25B0%25EC%259D%2580/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/JSFiddle/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%258F%2584%25EC%25B0%25BD%25EC%259A%25B1/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/JS-Bin/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EC%25A0%2595%25EC%259C%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/CodePen/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25A8%25B9%25EA%25B3%25A0-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%2598%25EA%25B3%25A0-%25EC%2582%25AC%25EB%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/visual-studio-code/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/2016-ksug/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259A%25A9%25EA%25B6%258C/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/ksug/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EA%25B2%2583%25EC%259D%25B4-%25EC%259E%2590%25EB%25B0%2594%25EB%258B%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B3%25B5%25EB%25B6%2580/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25ED%258F%25AC%25ED%2594%2584/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B2%258C%25EC%259E%2584%25EC%259C%25BC%25EB%25A1%259C-%25EC%259D%25B5%25ED%259E%2588%25EB%258A%2594-%25EC%25BD%2594%25EB%2594%25A9-%25EC%2595%258C%25EA%25B3%25A0%25EB%25A6%25AC%25EC%25A6%2598/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/c-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/CSS3/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/Hello-Coding-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/HTML5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EC%259D%25B8%25EC%2583%259D/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25AA%25A8%25EB%258D%2598-%25EC%259B%25B9%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-HTML5-CSS3-%25EB%25B0%2594%25EC%259D%25B4%25EB%25B8%2594/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25A1%259C%25EB%2593%259C%25EB%25A7%25B5/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25A6%25AC%25EB%2588%2585%25EC%258A%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EC%259D%2598-%25EA%25B8%25B8-%25EB%25A9%2598%25ED%2586%25A0%25EC%2597%2590%25EA%25B2%258C-%25EB%25AC%25BB%25EB%258B%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/vanilla-javascript/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/vscode/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/ES2015/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/intellij/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/ES6/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/run-terminal/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%2598%2588%25EC%25A0%259C%25EB%25A1%259C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-ECMAScript-6-%25ED%2595%25B5%25EC%258B%25AC-%25EA%25B8%25B0%25EB%258A%25A5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%2584%25B0%25EB%25AF%25B8%25EB%2584%2590-%25EC%2597%2590%25EB%2594%2594%25ED%2584%25B0-%25EC%258B%25A4%25ED%2596%2589/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EB%25A5%25BC-%25EA%25B9%25A8%25EC%259A%25B0%25EC%25B9%2598%25EB%258B%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/2017-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25ED%259A%258C%25EA%25B3%25A0/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-oop/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259E%2585-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25A9%2598%25ED%2586%25A0/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259D%25EC%25B2%25B4%25EC%25A7%2580%25ED%2596%25A5-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/Vue-%25ED%2595%259C%25EA%25B5%25AD-%25EC%2582%25AC%25EC%259A%25A9%25EC%259E%2590-%25EB%25AA%25A8%25EC%259E%2584/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259D%25EC%25B2%25B4%25EC%25A7%2580%25ED%2596%25A5-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EC%259D%2598-%25EC%259B%2590%25EB%25A6%25AC/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/Vuetiful-Korea-%25EC%2584%25B8-%25EB%25B2%2588%25EC%25A7%25B8-%25EB%25B0%258B%25EC%2597%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%259A%25A9%25EA%25B6%258C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/Vuetiful-Korea/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EA%25B2%2583%25EC%259D%25B4-%25EC%259E%2590%25EB%25B0%2594%25EB%258B%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/UglifyJs/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/TypeScript-from-UglifyJs/</loc>
+        <lastmod>2020-08-18T13:48:29.855Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/run-console/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/gdg-2017/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/typescript/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EC%25A2%2585%25EB%25A6%25BD/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/CodeSandbox/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/es6-%25EC%25BD%2594%25EB%25BF%2594%25EC%2586%258C/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/JSFiddle/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/javascript-es6/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/JS-Bin/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%259F%25AC%25EB%258B%259D-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/CodePen/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/React-Korea/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/visual-studio-code/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/JSDev-KR/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25ED%258F%25AC%25ED%2594%2584/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/angular/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/c-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25ED%258F%25AC%25EB%259F%25BC/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/Hello-Coding-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259D%25B4%25EC%25A2%2585%25EC%259D%2580/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EC%259D%25B8%25EC%2583%259D/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258B%25A0%25EC%25A0%2595%25EA%25B7%259C/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25A1%259C%25EB%2593%259C%25EB%25A7%25B5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%2582%2598%25EB%258A%2594-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%258B%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EC%259D%2598-%25EA%25B8%25B8-%25EB%25A9%2598%25ED%2586%25A0%25EC%2597%2590%25EA%25B2%258C-%25EB%25AC%25BB%25EB%258B%25A4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EC%25A2%2585%25EA%25B4%2591/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/vscode/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EB%258F%2599%25EC%259A%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/intellij/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%25B2%25AB%25EA%25B1%25B8%25EC%259D%258C/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/run-terminal/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%2598%2588%25EC%25A0%259C%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%2584%25B0%25EB%25AF%25B8%25EB%2584%2590-%25EC%2597%2590%25EB%2594%2594%25ED%2584%25B0-%25EC%258B%25A4%25ED%2596%2589/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%25B1%2585-%25EC%25B6%2594%25EC%25B2%259C/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/UglifyJs/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/okky/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/TypeScript/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/javascript-%25EC%259D%25B8%25EB%25AC%25B8%25ED%2595%2599/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/TypeScript-from-UglifyJs/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25A7%258C%25EC%2595%25BD-%25ED%2597%25A4%25EB%25B0%258D%25EC%259B%25A8%25EC%259D%25B4%25EA%25B0%2580-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EB%25A1%259C-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%259C%25EB%258B%25A4%25EB%25A9%25B4/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/es6-%25EC%25BD%2594%25EB%25BF%2594%25EC%2586%258C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259D%25B8%25EC%2582%25AC%25EC%259D%25B4%25EB%2593%259C-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/javascript-es6/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/W3C-HTML5-%25EB%258C%2580%25ED%2595%259C%25EB%25AF%25BC%25EA%25B5%25AD-%25EA%25B4%2580%25EC%258B%25AC%25EA%25B7%25B8%25EB%25A3%25B9-45%25EC%25B0%25A8%25ED%259A%258C%25EC%259D%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%259F%25AC%25EB%258B%259D-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/W3C-HTML5-%25EB%258C%2580%25ED%2595%259C%25EB%25AF%25BC%25EA%25B5%25AD/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%25B2%25AB%25EA%25B1%25B8%25EC%259D%258C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/W3C-HTML5/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%2598%2588%25EC%25A0%259C%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/meteor/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%2595%25B5%25EA%25B7%25A4%25EB%259F%25AC-%25EC%25B1%2585-%25EC%25B6%2594%25EC%25B2%259C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/hybrid-framework/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/javascript-%25EC%259D%25B8%25EB%25AC%25B8%25ED%2595%2599/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/Javascript-for-kids/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25A7%258C%25EC%2595%25BD-%25ED%2597%25A4%25EB%25B0%258D%25EC%259B%25A8%25EC%259D%25B4%25EA%25B0%2580-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8%25EB%25A1%259C-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%259C%25EB%258B%25A4%25EB%25A9%25B4/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/javascript-%25EC%259E%2585%25EB%25AC%25B8/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259D%25B8%25EC%2582%25AC%25EC%259D%25B4%25EB%2593%259C-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/W3C-HTML5-%25EB%258C%2580%25ED%2595%259C%25EB%25AF%25BC%25EA%25B5%25AD-%25EA%25B4%2580%25EC%258B%25AC%25EA%25B7%25B8%25EB%25A3%25B9-45%25EC%25B0%25A8%25ED%259A%258C%25EC%259D%2598/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%2588%2584%25EA%25B5%25AC%25EB%2582%2598-%25EC%2589%25BD%25EA%25B2%258C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
+        <lastmod>2020-08-18T13:48:29.853Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/W3C-HTML5-%25EB%258C%2580%25ED%2595%259C%25EB%25AF%25BC%25EA%25B5%25AD/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/gdgkr/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/W3C-HTML5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/GDG-DevFest-Seoul-2016/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/react/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/devfest2016/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/meteor/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%25B4%2588%25EB%25B3%25B4%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%2593%25A4%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-%25EC%259B%25B9-%25ED%2594%2584%25EB%25A1%25A0%25ED%258A%25B8%25EC%2597%2594%25EB%2593%259C-%25EA%25B0%259C%25EB%25B0%259C-101/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/hybrid-framework/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%25A1%25B0%25EC%259D%2580/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/Javascript-for-kids/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%258F%2584%25EC%25B0%25BD%25EC%259A%25B1/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/javascript-%25EC%259E%2585%25EB%25AC%25B8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B9%2580%25EC%25A0%2595%25EC%259C%25A4/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8-%25EC%259E%2585%25EB%25AC%25B8-%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%2582%259C-%25EC%25A0%2595%25EB%25A7%2590-JAVA%25EB%25A5%25BC-%25EA%25B3%25B5%25EB%25B6%2580%25ED%2595%259C-%25EC%25A0%2581%25EC%259D%25B4-%25EC%2597%2586%25EB%258B%25A4%25EA%25B5%25AC%25EC%259A%2594/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%2588%2584%25EA%25B5%25AC%25EB%2582%2598-%25EC%2589%25BD%25EA%25B2%258C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-%25EC%259E%2590%25EB%25B0%2594%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25BD%25ED%258A%25B8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B8%25B0%25EC%25B4%2588-%25ED%258A%25BC%25ED%258A%25BC-%25EC%25BD%2594%25EB%2593%259C-%25ED%258A%25BC%25ED%258A%25BC-%25EB%258B%25A4-%25ED%2595%25A8%25EA%25BB%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%2582%259C-%25EC%25A0%2595%25EB%25A7%2590-JAVA%25EB%25A5%25BC-%25EA%25B3%25B5%25EB%25B6%2580%25ED%2595%259C-%25EC%25A0%2581%25EC%259D%25B4-%25EC%2597%2586%25EB%258B%25A4%25EA%25B5%25AC%25EC%259A%2594/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C-%25EC%259E%2585%25EB%25AC%25B8-%25EC%2584%259C%25EC%25A0%2581/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B8%25B0%25EC%25B4%2588-%25ED%258A%25BC%25ED%258A%25BC-%25EC%25BD%2594%25EB%2593%259C-%25ED%258A%25BC%25ED%258A%25BC-%25EB%258B%25A4-%25ED%2595%25A8%25EA%25BB%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/kenu/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%259C%25EB%25B0%259C-%25EC%259E%2585%25EB%25AC%25B8-%25EC%2584%259C%25EC%25A0%2581/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%2597%2588%25EA%25B4%2591%25EB%2582%25A8/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/okky/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D-%25EC%258B%259C%25EC%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/kenu/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259C%25BC%25EB%25A1%259C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-Java-Programming-Basic/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%2597%2588%25EA%25B4%2591%25EB%2582%25A8/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%25B4%2588%25EB%25B3%25B4-%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D-%25EC%258B%259C%25EC%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8%25EC%259A%25A9/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%25A7%2591%25EC%25A4%2591%25EB%25A0%25A5-%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8-%25EC%2584%259C%25EC%25A0%2581/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25AF%25B8%25EC%25B9%259C-%25EC%25A7%2591%25EC%25A4%2591%25EB%25A0%25A5/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%25A7%2591%25EC%25A4%2591%25EB%25A0%25A5-%25EC%25B1%2585/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B7%25B8%25EB%25A6%25BC%25EC%259C%25BC%25EB%25A1%259C-%25EB%25B0%25B0%25EC%259A%25B0%25EB%258A%2594-Java-Programming-Basic/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25AF%25B8%25EC%25B9%259C-%25EC%25A7%2591%25EC%25A4%2591%25EB%25A0%25A5/</loc>
+        <lastmod>2020-08-18T13:48:29.852Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%25B4%2588%25EB%25B3%25B4-%25EC%25B1%2585/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25B9%2584%25EC%25A0%2584%25EA%25B3%25B5%25EC%259E%2590%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259E%2590%25EB%25B0%2594-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8%25EC%259A%25A9/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%25A7%2580%25EC%2586%258D%25ED%2595%2598%25EB%258A%2594-%25ED%259E%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2590%25EB%25B0%2594-%25EC%259E%2585%25EB%25AC%25B8-%25EC%2584%259C%25EC%25A0%2581/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%25A7%2580%25EC%2586%258D%25ED%2595%2598%25EB%258A%2594-%25EA%25B8%25B0%25EC%2588%25A0/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25B9%2584%25EC%25A0%2584%25EA%25B3%25B5%25EC%259E%2590%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259E%2590%25EB%25B0%2594-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25B0%258D/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%259B%258C%25EB%25A5%25AD%25ED%2595%259C-%25EA%25B2%258C%25EC%259E%2584-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%2590%2598%25EA%25B8%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%258C%2594%25EA%25B5%25BD%25ED%2598%2580%25ED%258E%25B4%25EA%25B8%25B0-%25ED%2595%2598%25EB%25A3%25A8-%25ED%2595%259C-%25EB%25B2%2588/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25B8%2594%25EB%25A6%25AC%25EC%259E%2590%25EB%2593%259C-%25EB%2584%25A5%25EC%258A%25A8-%25EB%25B0%2595%25EC%25A2%2585%25EC%25B2%259C/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%259E%2591%25EC%259D%2580-%25EC%258A%25B5%25EA%25B4%2580%25EC%259D%2598-%25ED%259E%2598/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B2%258C%25EC%259E%2584-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EC%2584%25B8%25EB%25AF%25B8%25EB%2582%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%258A%25B5%25EA%25B4%2580%25EC%259D%2598-%25EC%259E%25AC%25EB%25B0%259C%25EA%25B2%25AC/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/9xd-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25AA%25A8%25EC%259E%2584/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B0%2580%25EB%25B3%258D%25EA%25B2%258C-%25EC%258B%259C%25EC%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/90%25EB%2585%2584%25EC%2583%259D-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%25AA%25A8%25EC%259E%2584/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%25A7%2580%25EC%2586%258D%25ED%2595%2598%25EB%258A%2594-%25ED%259E%2598/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25ED%258C%2594%25EA%25B5%25BD%25ED%2598%2580%25ED%258E%25B4%25EA%25B8%25B0-%25ED%2595%2598%25EB%25A3%25A8-%25ED%2595%259C-%25EB%25B2%2588/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EC%25A7%2580%25EC%2586%258D%25ED%2595%2598%25EB%258A%2594-%25EA%25B8%25B0%25EC%2588%25A0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%259E%2591%25EC%259D%2580-%25EC%258A%25B5%25EA%25B4%2580%25EC%259D%2598-%25ED%259E%2598/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25ED%259B%258C%25EB%25A5%25AD%25ED%2595%259C-%25EA%25B2%258C%25EC%259E%2584-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%2590%2598%25EA%25B8%25B0/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EC%258A%25B5%25EA%25B4%2580%25EC%259D%2598-%25EC%259E%25AC%25EB%25B0%259C%25EA%25B2%25AC/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EB%25B8%2594%25EB%25A6%25AC%25EC%259E%2590%25EB%2593%259C-%25EB%2584%25A5%25EC%258A%25A8-%25EB%25B0%2595%25EC%25A2%2585%25EC%25B2%259C/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EA%25B0%2580%25EB%25B3%258D%25EA%25B2%258C-%25EC%258B%259C%25EC%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.851Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/%25EA%25B2%258C%25EC%259E%2584-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EC%2584%25B8%25EB%25AF%25B8%25EB%2582%2598/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/%25EB%25A8%25B9%25EA%25B3%25A0-%25EC%25BD%2594%25EB%2594%25A9%25ED%2595%2598%25EA%25B3%25A0-%25EC%2582%25AC%25EB%259E%2591%25ED%2595%2598%25EA%25B8%25B0/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/9xd-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590-%25EB%25AA%25A8%25EC%259E%2584/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/2016-ksug/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/tags/90%25EB%2585%2584%25EC%2583%259D-%25EA%25B0%259C%25EB%25B0%259C%25EC%259E%2590%25EB%25AA%25A8%25EC%259E%2584/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/tags/ksug/</loc>
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EB%25AF%25B8%25EC%25B3%2590%25EC%2595%25BC-%25EA%25B3%25B5%25EB%25B6%2580%25EB%258B%25A4/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B3%25B5%25EC%258B%25A0/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B3%25B5%25EB%25B6%2580%25EC%259E%2590%25EA%25B7%25B9/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B3%25B5%25EB%25B6%2580%25EC%259D%2598-%25EC%258B%25A0/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B0%2595%25EC%2584%25B1%25ED%2583%259C-%25EA%25B3%25B5%25EB%25B6%2580%25EC%259D%2598-%25EC%258B%25A0/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/tags/%25EA%25B0%2595%25EC%2584%25B1%25ED%2583%259C/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

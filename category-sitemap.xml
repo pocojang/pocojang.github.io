@@ -8,120 +8,210 @@
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/programming/</loc>
         <lastmod>2020-05-01T04:41:58.824Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/column/</loc>
+        <lastmod>2020-11-15T14:17:33.804Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/</loc>
         <lastmod>2020-05-01T04:41:58.824Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/programming/react/</loc>
+        <lastmod>2020-10-29T05:51:38.482Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/programming/computer-science/</loc>
         <lastmod>2020-05-01T03:35:59.157Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/programming/</loc>
+        <lastmod>2020-10-29T05:51:38.482Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/programming/javascript/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/programming/</loc>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/TIL/javascript/javascipt30/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/</loc>
+        <lastmod>2020-10-18T12:47:33.716Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/categories/TIL/javascript/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/self-help/</loc>
+        <lastmod>2020-08-18T14:12:04.381Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/categories/programming/tip/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/programming/computer-science/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/categories/programming/typescript/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/conference/</loc>
+        <lastmod>2020-08-18T13:48:29.862Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+<<<<<<< HEAD
+        <loc>https://devjang.github.io/categories/column/</loc>
+        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/TIL/javascript/javascipt30/</loc>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/categories/TIL/javascript/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/programming/tip/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/programming/typescript/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/column/</loc>
-        <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/categories/book/programming/css/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://devjang.github.io/categories/TIL/</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.861Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/programming/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/programming/javascript/</loc>
+        <lastmod>2020-08-18T13:48:29.859Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/programming/framework/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/programming/javascript/</loc>
+        <lastmod>2020-08-18T13:48:29.858Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/programming/java/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/programming/tip/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/programming/javascript/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/programming/typescript/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/book/self-help/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/programming/java/</loc>
+        <lastmod>2020-08-18T13:48:29.856Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
+<<<<<<< HEAD
         <loc>https://devjang.github.io/categories/conference/</loc>
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <loc>https://devjang.github.io/categories/book/programming/framework/</loc>
+        <lastmod>2020-08-18T13:48:29.854Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -9,7 +9,11 @@
     
     <url>
         <loc>https://devjang.github.io/404.html</loc>
+<<<<<<< HEAD
         <lastmod>2019-10-13T13:42:42.000Z</lastmod>
+=======
+        <lastmod>2020-08-18T13:48:29.850Z</lastmod>
+>>>>>>> ac055f49c2d4af32a1408490acda226998978a37
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
