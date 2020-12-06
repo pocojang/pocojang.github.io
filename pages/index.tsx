@@ -1,9 +1,3 @@
-import Layout from '../components/Layout';
-
-const IndexPage = () => (
-  <Layout title="My Personal Blog">
-    <h1>Hello Next.js 👋</h1>
-  </Layout>
-);
+const IndexPage = () => <h1>Hello Next.js 👋</h1>;
 
 export default IndexPage;
