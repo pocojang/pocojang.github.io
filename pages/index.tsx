@@ -1,3 +1,5 @@
-const IndexPage = () => <h1>Hello Next.js 👋</h1>;
+const IndexPage = () => (
+  <h1 className="text-5xl text-center">Hello Next.js 👋</h1>
+);
 
 export default IndexPage;
