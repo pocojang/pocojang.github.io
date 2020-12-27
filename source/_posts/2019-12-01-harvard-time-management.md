@@ -7,7 +7,7 @@ banner: https://media.vlpt.us/post-images/devjang/1e268a90-1446-11ea-a9fd-b570de
 
 ---
 
-벨로퍼트님의 리액트를 다루는 기술
+하버드에서 시간을 관리하는 방법
 
 <!-- more -->
 
