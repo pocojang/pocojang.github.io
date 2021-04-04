@@ -1,13 +1,14 @@
-title: 우테코에서의 2021년 2월
+title: 2021년 2월 회고
 date: 2021-03-07
-tags: [우아한테크코스]
+tags: [우아한테크코스, 회고]
 categories:
-- [retrospect, 우아한테크코스]
-banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
+
+- [retrospect]
+  banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 ---
 
-우아한테크코스 프론트엔드 3기에서의 2021년 2월을 회고하며
+2021년 2월을 회고하며
 
 <!-- more -->
 
@@ -30,7 +31,6 @@ banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 +추가로 훌륭한 도구들의 도움을 많이 받았다.
 (Google Meet, Zoom, Gather Town)
-
 
 #### 클럽 하우스
 
@@ -72,10 +72,9 @@ banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 #### 페어 프로그래밍
 
-크루들이 페어로 미션을 진행하며 설계하는 것에 시간이 많이 들었겠지만 Git과 네이밍 컨벤션에 가장 비용이 많이 쏟아지는 것으로 보였다.  
+크루들이 페어로 미션을 진행하며 설계하는 것에 시간이 많이 들었겠지만 Git과 네이밍 컨벤션에 가장 비용이 많이 쏟아지는 것으로 보였다.
 
 ---
-
 
 ## 😱 어려움
 
@@ -83,7 +82,7 @@ banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 모든 것이 랜선으로 진행되다보니 아이스브레이킹이 쉽지 않았다.
 
-앞서 나온 내용처럼 스몰 토크와 클럽 하우스 그리고 크루들의 도움이 없었다면 정말 쉽지 않았을 것이다.  
+앞서 나온 내용처럼 스몰 토크와 클럽 하우스 그리고 크루들의 도움이 없었다면 정말 쉽지 않았을 것이다.
 
 #### 수준 맞추기
 
@@ -134,7 +133,7 @@ Front-Engineer를 꿈꾸는 크루들이 HTML & CSS나 사용자의 경험에는
 
 ## ⭐️ 정리
 
-우아한테크코스 3기 그리고 프론트엔드 기수로는 1기나 다름없는 첫 기수를 맞이하게 되었다.    
+우아한테크코스 3기 그리고 프론트엔드 기수로는 1기나 다름없는 첫 기수를 맞이하게 되었다.  
 또한 정식 교육자로서의 첫걸음과 새로운 팀 적응을 동시에 했어야만 했다.
 훌륭한 동료들과 에너지 넘치는 크루들 덕분에 잘 이겨낼 수 있었다.
 
