@@ -50,7 +50,7 @@ banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 - VS Code 잘 활용하기
 - 할 일 관리하기 => 만다라트 차트로 Output
 
-크루들에게 많은 학업이 밀려있기에 간결 잘 들어줘서 다행이다.
+크루들에게 많은 학업이 밀려있기에 상당 부분을 생략하고 대충 끝내서 찝찝했지만 그래도 잘 들어줘서 다행이다.
 
 ---
 
