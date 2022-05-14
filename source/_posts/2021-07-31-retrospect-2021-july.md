@@ -1,9 +1,8 @@
 title: 2021년 7월 회고
 date: 2021-07-31
-tags: [우아한테크코스, 회고]
+tags: [회고]
 categories:
 - retrospect
-banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 ---
 

@@ -1,9 +1,8 @@
 title: 2021년 3월 회고
 date: 2021-04-03
-tags: [우아한테크코스, 회고]
+tags: [회고]
 categories:
 - retrospect
-banner: https://woowacourse.github.io/img/logo_base.be1dde8c.png
 
 ---
 
