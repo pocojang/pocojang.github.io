@@ -58,7 +58,7 @@ banner: https://media.giphy.com/media/IPbS5R4fSUl5S/source.gif
 
 ## 울트라러닝의 9가지 법칙
 
-이전에 읽었던 [울트라러닝](https://devjang.github.io/2020/12/13/2020-12-13-ultra-learning)의 법칙을 기반으로 개발자는 어떻게 행동할 수 있을까?
+이전에 읽었던 [울트라러닝](https://pocojang.github.io/2020/12/13/2020-12-13-ultra-learning)의 법칙을 기반으로 개발자는 어떻게 행동할 수 있을까?
 
 다시 한번 개발자의 입장으로 정의해보고 싶어 책을 다시 한번 펼쳐보았다.
 

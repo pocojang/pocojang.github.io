@@ -4,63 +4,63 @@ menu:
 
 # Customize
 customize:
-    logo:
-        enabled: false
-        width: 40
-        height: 40
-        url:
-    profile:
-        enabled: false # Whether to show profile bar
-        avatar: https://octodex.github.com/images/octonaut.jpg
-        gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: DevJang
-        author_title: Front-end Developer
-        location: Korea, Suwon
-        follow: https://github.com/devjang
-    highlight: vs-code-dark
-    sidebar: right # sidebar position, options: left, right or leave it empty
-    thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: libs/favicon.png
-    social_links:
-        github: http://github.com/devjang
-        linkedin: https://www.linkedin.com/in/devjang
-        envelope: mailto:devjang2016@gmail.com
-        rss: /feed.xml
-    social_link_tooltip: false # enable the social link tooltip, options: true, false
+  logo:
+    enabled: false
+    width: 40
+    height: 40
+    url:
+  profile:
+    enabled: false # Whether to show profile bar
+    avatar: https://octodex.github.com/images/octonaut.jpg
+    gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+    author: Poco
+    author_title: Front-end Developer
+    location: Korea, Suwon
+    follow: https://github.com/pocojang
+  highlight: vs-code-dark
+  sidebar: right # sidebar position, options: left, right or leave it empty
+  thumbnail: true # enable posts thumbnail, options: true, false
+  favicon: libs/favicon.png
+  social_links:
+    github: http://github.com/pocojang
+    linkedin: https://www.linkedin.com/in/devjang
+    envelope: mailto:devjang2016@gmail.com
+    rss: /feed.xml
+  social_link_tooltip: false # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
-    - category
-    - recent_posts
-    # - archive
-    # - tag
-    - tagcloud
+  - category
+  - recent_posts
+  # - archive
+  # - tag
+  - tagcloud
 
 # Search
 search:
-    insight: true # you need to install `hexo-generator-json-content` before using Insight Search
-    swiftype: # enter swiftype install key here
+  insight: true # you need to install `hexo-generator-json-content` before using Insight Search
+  swiftype: # enter swiftype install key here
 
 # Comment
 comment:
-    disqus:  devjang
-    facebook: # enter true to enable
-    
+  disqus: devjang
+  facebook: # enter true to enable
+
 # Share
 share: default # options: jiathis, bdshare, addtoany, default
 
 # Plugins
 plugins:
-    lightgallery: false # options: true, false
-    justifiedgallery: true # options: true, false
-    google_analytics: UA-109978804-1
-    google_site_verification: # enter Google site verification code
-    mathjax: false # options: true, false
+  lightgallery: false # options: true, false
+  justifiedgallery: true # options: true, false
+  google_analytics: UA-109978804-1
+  google_site_verification: # enter Google site verification code
+  mathjax: false # options: true, false
 
 # Miscellaneous
 miscellaneous:
-    open_graph: # see http://ogp.me
-        fb_app_id: 129422431071535
-        fb_admins:
-        twitter_id:
-        google_plus:
+  open_graph: # see http://ogp.me
+    fb_app_id: 129422431071535
+    fb_admins:
+    twitter_id:
+    google_plus:

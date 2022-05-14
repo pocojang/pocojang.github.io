@@ -97,7 +97,7 @@ banner: https://www.hanbit.co.kr/data/books/B6952616555_l.jpg
 ## 결론
 
 기대가 너무 커서 그랬을뿐이지 그래도 좋은 책이다.  
-한땀 한땀 코드를 열심히 작성해서 [저장소](https://github.com/devJang/refactoring-2nd-edition)를 관리하기도 했고 여러번 읽기도 했다.
+한땀 한땀 코드를 열심히 작성해서 [저장소](https://github.com/pocojang/refactoring-2nd-edition)를 관리하기도 했고 여러번 읽기도 했다.
 
 ![](https://1.bp.blogspot.com/-pLya7p3jFI0/X-n3lusFk2I/AAAAAAAAgy0/OofwEnF59asfJXq0K91zYZEeaAVf3hu_wCLcBGAsYHQ/s1660/1.png)
 

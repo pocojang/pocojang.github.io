@@ -6,12 +6,12 @@
 title: Front-end Engineer
 subtitle:
 description: Beginner Front-end Engineer Blog
-author: DevJang
+author: pocojang
 language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://devjang.github.io
+url: https://pocojang.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -88,7 +88,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/devJang/devjang.github.com.git
+  repo: https://github.com/pocojang/pocojang.github.io
   branch: gh-pages
 
 sitemap:
@@ -105,4 +105,4 @@ robotstxt:
   disallow:
   allow:
     - /
-  sitemap: https://devjang.github.io/robots.txt
+  sitemap: https://pocojang.github.io/robots.txt
